@@ -5,8 +5,10 @@
 - Never leave a single word alone on the last line of any paragraph (no orphans). Keep `text-wrap:pretty` on all text; if it still happens, shorten or slightly extend the copy.
 
 ## Project rules
-- The live site is `site/` (Netlify publishes it from `main`). See `README.md` for structure.
-- Raw materials and old design versions live outside the repo in `~/Downloads/Primitive Design - Archive`; look there for original images, PDFs and uploads. Copy only what the site uses into `site/assets/`.
+- The site is a Vite + React app; see `README.md` for structure. Product/brand content lives in `src/data/`, page sections in `src/views/`, behaviour in `src/logic/SiteLogic.js`, styles in `src/styles/site.css`.
+- Raw materials and old design versions live outside the repo in `~/Downloads/Primitive Design - Archive`; look there for original images, PDFs and uploads. Copy only what the site uses into `public/assets/`.
+- Keep `cssMinify: false` in `vite.config.js`: the minifier drops unprefixed `backdrop-filter` and the blur disappears.
+- Before any deploy, run `npm run build` and check the changed pages in the browser at desktop and mobile widths.
 - Work on a branch and open a pull request; never push straight to `main`. Verify visual changes in the browser (desktop and mobile) before asking to merge.
-- Deploy with the Netlify CLI (`~/.local/bin/netlify`, see README): preview first, `--prod` only after the user approves. GitHub CLI is at `~/.local/bin/gh`.
+- Deploy with the Netlify CLI (`~/.local/bin/netlify deploy --dir dist`, see README): preview first, `--prod` only after the user approves. GitHub CLI is at `~/.local/bin/gh`.
 - The user is not technical: explain steps in plain Hebrew, one step at a time.
