@@ -13,9 +13,13 @@ public/
 src/
   main.jsx            entry point
   config.js           site settings (columns, prices on/off, etc.)
+  content/
+    products.json     products: names, prices, images, specs (edited by the client)
+    brands.json       brands: names, countries, texts, images (edited by the client)
   data/
-    brands.js         brands: names, countries, texts, images
-    products.js       products: names, designers, prices, images, specs
+    products.js       loads products.json (+ group-shot list)
+    brands.js         loads brands.json
+    clean.js          normalises CMS output for the site logic
     catalog.js        categories and sort options
     mood.js           mood images on the home grid
     intro.js          opening-animation layout
@@ -26,8 +30,9 @@ src/
 ```
 
 Typical edits:
-- Add or change a product: `src/data/products.js` (images go in `public/assets/`).
-- Change brand text: `src/data/brands.js`.
+- Products and brands: `src/content/*.json`. The client edits these through
+  Pages CMS (https://app.pagescms.org, config in `.pages.yml`); see
+  `docs/client-editing-guide.md`. Uploaded images land in `public/assets/`.
 - Change layout or copy of a section: the matching file in `src/views/`.
 
 Raw materials (uploads, scraps, old design versions) are kept outside the repo in
@@ -44,6 +49,12 @@ Raw materials (uploads, scraps, old design versions) are kept outside the repo i
 1. Work on a branch, never directly on `main`.
 2. Build and deploy a preview, and have it checked.
 3. After approval: merge to `main`, then deploy live.
+
+## Client editing (Pages CMS)
+
+The client saves in Pages CMS → a commit on `main` → Netlify builds and publishes
+automatically (Netlify is linked to the GitHub repo). Pull before working locally:
+`git pull`. When adding a brand, also add it to the brand list in `.pages.yml`.
 
 ## Deploying
 

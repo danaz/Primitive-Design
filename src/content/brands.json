@@ -1,0 +1,149 @@
+[
+  {
+    "id": "indo",
+    "blurb": "Everyday stools from a private collection, imported from Indonesia. Simple and solid, they work as a seat, a side table or a bedside stool. Available in the store.",
+    "name": "Indonesian Stools",
+    "country": "Indonesia",
+    "tagline": "Solid wood, cut by hand.",
+    "image": "/assets/indo-stool-1.png",
+    "short": "Everyday stools from a private collection, imported from Indonesia. Simple and solid, they work as a seat, a side table or a bedside stool. Available in the store.",
+    "long": "Everyday stools from a private collection, imported from Indonesia. Simple and solid, they work as a seat, a side table or a bedside stool. Available in the store.\n\nEach stool is carved from a single block of solid wood, so grain, tone and proportion vary slightly from piece to piece. Material to follow."
+  },
+  {
+    "id": "gaga",
+    "blurb": "Gaga & Design is a design house focused on hand-made seating, produced one piece at a time. Its language of precise simplicity plays material, colour and visual weight against one another, for pieces that live indoors and out.",
+    "name": "Gaga & Design",
+    "country": "Israel",
+    "tagline": "Handmade seating, indoor and out.",
+    "image": "/assets/gaga-double-d-stool-panel2.png",
+    "short": "A design house focused on hand-made seating, produced one piece at a time with an emphasis on quality and longevity, and a precise simplicity that plays material, colour and visual weight against one another.",
+    "long": "Gaga & Design is a design house focused on hand-made seating, produced one piece at a time. Its philosophy rests on the belief that good design should accompany its owner for many years, functionally and aesthetically.\n\nThe visual language leans on precise simplicity alongside a play of material, colour and visual weight, seeking the balance between a beautiful object and a useful piece of furniture. Airy yet present, the collections suit both indoor and outdoor spaces, and are developed in collaboration with designers including Yaacov Kaufman and Neil Nenner."
+  },
+  {
+    "id": "koozo",
+    "blurb": "KOOZO is a Belgian brand founded on a simple ambition: to make original, timeless design furniture accessible. Each collection balances an enduring aesthetic with everyday comfort, built to settle into a space for years.",
+    "name": "KOOZO",
+    "country": "Belgium",
+    "tagline": "Timeless, accessible design furniture.",
+    "image": "/assets/koozo-robin-trim.png",
+    "secondaryImage": "/assets/koozo-footstool-trim.png",
+    "secondaryAr": "4/3",
+    "short": "A Belgian brand born from a personal ambition to make original, timeless design furniture accessible: clean lines, high comfort and a considered production process.",
+    "long": "KOOZO is a Belgian brand founded on a simple, personal ambition: to give design lovers the chance to own original, timeless furniture within reach. Every collection balances an enduring aesthetic with everyday comfort, made possible by a carefully considered production process.\n\nDeveloped in collaboration with its designers, the pieces are authentic, functional and built to last, with a calm, clean presence that settles naturally into a space and stays there for years."
+  },
+  {
+    "id": "horm",
+    "blurb": "HORM is an Italian furniture house established in 1989, pairing traditional craftsmanship with renowned international designers. Its collections are precise, finely made and quietly elegant.",
+    "name": "HORM",
+    "country": "Italy",
+    "tagline": "Contemporary Italian design since 1989.",
+    "image": "/assets/horm-stereo-1-trim.png",
+    "secondaryImage": "/assets/horm-stereo-2.jpeg",
+    "secondaryAr": "4/3",
+    "short": "An Italian furniture house established in 1989, pairing traditional craftsmanship with leading international designers to create contemporary pieces of quiet, elegant presence.",
+    "long": "HORM is an Italian furniture house established in 1989, producing high-end contemporary pieces for private and contract spaces. It combines traditional Italian craftsmanship with an ongoing dialogue between material, function and form, in collaboration with renowned international designers.\n\nThe collections are marked by precision, innovation and fine materials, in search of elegant, restrained solutions: furniture with real design depth and an understated presence. Over the years the house has earned wide international recognition, working across the Horm, Casamania and Orizzonti Italia labels."
+  },
+  {
+    "id": "yamakawa",
+    "blurb": "Yamakawa Rattan was founded in Tokyo in 1952 and became one of Japan’s most renowned makers of rattan furniture. Its pieces are hand-woven with a deep understanding of a material that is light, flexible and naturally strong.",
+    "name": "Yamakawa",
+    "country": "Japan",
+    "tagline": "Hand-woven rattan craft since 1952.",
+    "image": "/assets/yamakawa-cl049-main.jpg",
+    "fit": "cover",
+    "short": "A Japanese house with a long heritage of hand-made rattan furniture: light, flexible and strong, worked with precision and a deep understanding of the material.",
+    "long": "Yamakawa Rattan was founded by Hichiro Yamakawa in 1952 in a storage room in the backyard of their home in Tokyo, Japan. He started the business to create jobs for his two sons, who were both hearing impaired. Both sons were very apt in using their hands, so weaving was suitable. Yuzuru Yamakawa, who was fortunate not to have the handicap as his brothers, was asked to join the company to help the family in managing the business. He studied at design school at night while working in the business during the day. His efforts and talent made Yamakawa Rattan grow to become one of the most renowned companies in Japan specialized in creating high quality, design-oriented rattan furniture.\n\nRattan is the most ecological material that is available to us. Common knowledge dictates that cutting down trees from the rain forest destroys our environment, and once cut, the trees will not grow back. One has to replant new trees, and it takes many decades for a tree to mature. Rattan, however, grows again and at a very fast pace. It can only be found in the rain forest, as rattan needs trees for it to wrap on to reach for sunlight. This means that as long as there are trees in the rain forest, rattan will always be a sustainable raw material.\n\nThis material can be found in the rainforests of Kalimantan, Sulawesi and Sumatra. There are so many animals inhabiting these areas, including the famous and endangered orangutans. These animals are losing their natural habitats to humans cutting down trees illegally for financial benefit."
+  },
+  {
+    "id": "mocoba",
+    "name": "Mocoba",
+    "country": "",
+    "image": null,
+    "short": "",
+    "long": ""
+  },
+  {
+    "id": "magenta",
+    "blurb": "Magenta is an industrial design studio founded by Ronen Bavli in 1992, where industrial designers, artisans and graphic designers work side by side.",
+    "name": "Magenta",
+    "country": "Israel",
+    "tagline": "Industrial design studio, founded in 1992.",
+    "image": "/assets/magenta-bitton-a.png",
+    "fit": "contain",
+    "short": "An industrial design studio founded by Ronen Bavli in 1992.",
+    "long": "Magenta is an industrial design studio founded by Ronen Bavli in 1992. Its work is marked by humour, passion and creative freedom, with an open approach to materials and technology. Industrial designers, artisans and graphic designers work together in the studio."
+  },
+  {
+    "id": "norr11",
+    "blurb": "NORR11 is a Danish design company based in Copenhagen. Its furniture translates Japanese simplicity into a Scandinavian context, with close attention to material and detail.",
+    "name": "NORR11",
+    "country": "Denmark",
+    "tagline": "Danish design with a Japanese sensibility.",
+    "image": "/assets/norr11-ghost-coffee.png",
+    "fit": "contain",
+    "short": "A Copenhagen design house led by Kristian Sofus Hansen and Tommy Hyldahl, joining Japanese restraint with Scandinavian craft.",
+    "long": "NORR11 is a Danish design company based in Copenhagen. Its two lead designers, Kristian Sofus Hansen and Tommy Hyldahl, translate the simplicity of Japanese design into a Scandinavian context, with a focus on quality, heritage and materiality."
+  },
+  {
+    "id": "cuero",
+    "blurb": "Cuero makes furniture its founders want in their own homes: comfortable, beautiful and of very high quality.",
+    "name": "Cuero",
+    "country": "Sweden",
+    "image": null,
+    "short": "We make furniture that we want to have in our own homes.",
+    "long": "We make furniture that we want to have in our own homes. Everything has to be comfortable, beautiful and very high quality. “It’s comfortable, sturdy, and just plain beautiful. In my opinion it looks even better in person. On top of that the chair is backed by an honest and passionate group of professionals. I cannot recommend this company and their chair enough.”\nJustin Michael, USA"
+  },
+  {
+    "id": "thonet",
+    "blurb": "Thonet pioneered bentwood furniture in the nineteenth century, shaping steam-bent beech into light, enduring forms. Its chairs remain benchmarks of modern design.",
+    "name": "Thonet",
+    "country": "Germany",
+    "tagline": "Bentwood furniture since the nineteenth century.",
+    "image": "/assets/thonet-118-m-trim.png",
+    "secondaryImage": "/assets/thonet-s411-trim.png",
+    "secondaryAr": "3/2",
+    "short": "The German house that pioneered bentwood furniture, with light, structural forms shaped from steam-bent beech, and a lasting benchmark of modern design.",
+    "long": "Thonet is the German house that pioneered bentwood furniture in the nineteenth century, shaping beech by steam into light, enduring forms.\n\nIts chairs remain benchmarks of modern design: quiet, structural and made to last. The 118 continues that lineage in a pared-back, contemporary silhouette."
+  },
+  {
+    "id": "freifrau",
+    "blurb": "Freifrau began in 2011 as a one-man workshop in Lemgo, Germany, and has become an established European maker of seating, known for its comfort, careful detail and exacting standards of quality.",
+    "name": "Freifrau",
+    "country": "Germany",
+    "image": null,
+    "short": "A company that builds your favourite piece.",
+    "long": "What started back in 2011 as a one-man show has now, in little more than a decade, become an established European design brand: Freifrau Manufaktur. Operating from Lemgo, a small town in Westphalia, Germany, this exclusive manufacturer of seating furniture is characterised by high levels of comfort, lovingly-rendered details, and exacting quality and sustainability standards.\n\nIn 2011, trained carpenter Hansjörg Helweg decided to resign from his job and set up Freifrau, a brand for seating furniture which, right from its beginnings, has always been different.\n\nFreifrau furniture is elegant, stylish and, true to the meaning of its name in German (literally ‘free woman’), often decidedly feminine, which is why its collections are called by female forenames. Amelie was the first Freifrau chair and remains a stalwart of the range to this day, her shell given a variety of frames over the years: rails, cantilevers, circular bases, wooden cross. The same is true of the second line, Leya. It is in the company’s DNA to combine and develop its product lines, offering a wide range of textiles and leathers for each variant."
+  },
+  {
+    "id": "janua",
+    "name": "Janua",
+    "country": "Germany",
+    "image": null,
+    "short": "",
+    "long": ""
+  },
+  {
+    "id": "loomaligt",
+    "name": "Loomaligt",
+    "country": "Israel",
+    "image": null,
+    "short": "",
+    "long": ""
+  },
+  {
+    "id": "piure",
+    "name": "Piure",
+    "country": "",
+    "image": null,
+    "short": "",
+    "long": ""
+  },
+  {
+    "id": "primitive",
+    "name": "Primitive",
+    "country": "Indonesia",
+    "image": null,
+    "short": "",
+    "long": ""
+  }
+]
