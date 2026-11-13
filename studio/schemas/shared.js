@@ -2,7 +2,8 @@
 // Only the designer can change them (and delete items / create brands); everyone else,
 // including the client, sees them read-only. Locked by Sanity user ID rather than role,
 // because the free plan only has Administrator and Viewer roles.
-export const DESIGNER_IDS = ['gfNJxcLO1'];
+// Both the global (g…) and project (p…) IDs of the designer's Sanity account.
+export const DESIGNER_IDS = ['gfNJxcLO1', 'piEqRXdmp'];
 export const isDesigner = (currentUser) => DESIGNER_IDS.includes(currentUser?.id);
 export const isAdmin = ({ currentUser }) => isDesigner(currentUser);
 export const designerOnly = (ctx) => !isAdmin(ctx);
