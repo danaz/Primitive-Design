@@ -1,0 +1,24 @@
+{
+  "id": "gaga-zigi-dining",
+  "variants": true,
+  "brand": "gaga",
+  "name": "COD Dining Chair",
+  "designer": "Rami Tareef",
+  "category": "Chairs",
+  "price": {
+    "type": "request"
+  },
+  "ar": "4 / 5",
+  "images": [
+    "/assets/gaga-zigi-dining-brown-sm.png",
+    "/assets/gaga-zigi-dining-beige-sm.png"
+  ],
+  "desc": "The dining chair of the COD collection. A tubular steel frame hand-woven with a synthetic sleeve; the pentagonal back follows the geometry of the weave.",
+  "colors": "Brown, natural",
+  "dims": "W 70 · D 42 · H 80 cm · Seat H 46",
+  "materials": "Steel · Hand-woven synthetic cord",
+  "use": "Indoor / Outdoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 270
+}

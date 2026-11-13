@@ -1,0 +1,36 @@
+{
+  "id": "horm-network",
+  "mood": "/assets/horm-network-mood.jpg",
+  "brand": "horm",
+  "name": "Network",
+  "designer": "Neuland Paster & Geldmacher",
+  "category": "Storage & shelving",
+  "price": {
+    "type": "from",
+    "amount": 11900
+  },
+  "variants": true,
+  "gallery": [
+    "/assets/horm-network-bronze.png",
+    "/assets/horm-network-double.png",
+    "/assets/horm-network-anthracite.png",
+    "/assets/horm-network-books.png"
+  ],
+  "images": [
+    "/assets/horm-network-bronze.png",
+    "/assets/horm-network-double.png",
+    "/assets/horm-network-anthracite.png",
+    "/assets/horm-network-books.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A light, modular bookcase with floating leatherette panels that move along the metal frame, so shelves and layout can be reconfigured at any time.",
+  "dims": "W 98 · D 28 · H 192 cm",
+  "materials": "Painted metal · Leatherette shelves, up to 15",
+  "colors": "Bronze or anthracite",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "In production",
+  "pdf": "https://www.yumpu.com/en/document/read/65286230/campionario-network-en/1",
+  "video": "https://horm.it/qrcodevideo/networkreel.php",
+  "order": 200
+}

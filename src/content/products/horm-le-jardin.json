@@ -1,0 +1,35 @@
+{
+  "id": "horm-le-jardin",
+  "variants": true,
+  "mood": "/assets/horm-le-jardin-mood.jpg",
+  "brand": "horm",
+  "name": "Le Jardin",
+  "designer": "",
+  "category": "Storage & shelving",
+  "price": {
+    "type": "request"
+  },
+  "gallery": [
+    "/assets/lj/v3/lj0.png",
+    "/assets/lj/v3/lj6.png",
+    "/assets/lj/v3/lj3.png",
+    "/assets/lj/v3/lj5.png",
+    "/assets/lj/v3/lj7.png"
+  ],
+  "images": [
+    "/assets/lj/v3/lj0.png",
+    "/assets/lj/v3/lj6.png",
+    "/assets/lj/v3/lj3.png",
+    "/assets/lj/v3/lj5.png",
+    "/assets/lj/v3/lj7.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A sideboard drawn from a childhood memory of a spring garden. Body in glossy or matt lacquer or mocha-tinted beech; canaletto walnut doors with silk-screen decoration.",
+  "dims": "2–5 doors · W 96/144/192/240 · D 49 · H 67/99 cm",
+  "materials": "Lacquered body · Printed walnut doors · Glass shelves",
+  "colors": "Lacquered or mocha body · Walnut doors",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 500
+}

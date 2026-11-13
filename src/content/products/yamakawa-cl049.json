@@ -1,0 +1,33 @@
+{
+  "id": "yamakawa-cl049",
+  "ixPicks": [
+    "/assets/yk/cl049.png"
+  ],
+  "mood": "/assets/yamakawa-cl049-mood.jpg",
+  "moodAr": "16 / 10",
+  "moodPos": "50% 50%",
+  "gallery": [
+    "/assets/yk/cl049.png"
+  ],
+  "fit": "cover",
+  "brand": "yamakawa",
+  "name": "CL 049 + CF 049",
+  "designer": "Yamakawa Rattan",
+  "category": "Armchairs",
+  "price": {
+    "type": "fixed",
+    "amount": 6800
+  },
+  "images": [
+    "/assets/yamakawa-cl049-main.jpg"
+  ],
+  "ar": "3 / 4",
+  "desc": "A high-backed rattan lounge chair (CL 049) with matching footstool (CF 049), hand-woven in Japan.",
+  "dims": "Chair: W 77 · H 96 cm · Seat H 38 · Footstool: W 55 · H 43 cm",
+  "materials": "Metal · Woven rattan",
+  "colors": "Natural, dark",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 80
+}

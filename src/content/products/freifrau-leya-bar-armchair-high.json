@@ -1,0 +1,29 @@
+{
+  "id": "freifrau-leya-bar-armchair-high",
+  "variants": true,
+  "mood": "/assets/freifrau-leya-bar-armchair-high-mood.png",
+  "moodAr": "4 / 3",
+  "moodPos": "50% 50%",
+  "ixPicks": [
+    "/assets/freifrau-leya-bar-armchair-high-trim.png"
+  ],
+  "gallery": [
+    "/assets/freifrau-leya-bar-armchair-high-trim.png"
+  ],
+  "brand": "freifrau",
+  "name": "Leya Bar Armchair High",
+  "designer": "Hoffmann Kahleyss Design",
+  "category": "Bar stools",
+  "images": [
+    "/assets/freifrau-leya-bar-armchair-high-trim.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "The Leya shell at bar height, with a high back and armrests: clear and linear from the outside, soft inside. On a rotating central leg with a surrounding footrest.",
+  "dims": "W 58 · D 59 · H 120 cm · Seat H 82",
+  "materials": "Upholstered shell · Rotating central leg with footrest",
+  "colors": "Many fabrics and leathers",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 620
+}

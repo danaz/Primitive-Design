@@ -1,23 +1,33 @@
 # Pages CMS configuration: the editing forms the client sees at app.pagescms.org.
-# Content lives in src/content/*.json. Fields marked "Layout (designer only)" are
-# read-only for the client: they control how pieces sit in the grid.
+# Content lives in src/content/<kind>/<id>.json (one file per product / brand).
+# Fields marked "Layout (designer only)" are read-only for the client.
+# The client's Media screen only shows public/assets/uploads, so the site's own
+# images cannot be deleted from the CMS.
 
 media:
-  input: public/assets
-  output: /assets
+  input: public/assets/uploads
+  output: /assets/uploads
   rename: safe
   extensions: [jpg, jpeg, png, webp, avif, gif, pdf, mp4]
 
 content:
   - name: products
     label: Products
-    type: file
-    path: src/content/products.json
+    type: collection
+    path: src/content/products
     format: json
-    list:
-      collapsible:
-        collapsed: true
-        summary: "{name} · {brand}"
+    filename: "{id}.json"
+    operations:
+      rename: false
+      delete: false
+    view:
+      primary: name
+      fields: [name, brand, category, availability]
+      sort: [order, name, brand, category]
+      search: [name, brand, designer, category]
+      default:
+        sort: order
+        order: asc
     fields:
       - name: id
         label: Product ID (unique, lowercase with dashes, e.g. thonet-s-33)
@@ -131,21 +141,31 @@ content:
       - { name: ixPhoto, label: "Layout (designer only): index photo", type: boolean, readonly: true }
       - { name: ottoman, label: "Layout (designer only): ottoman", type: boolean, readonly: true }
       - { name: lift, label: "Layout (designer only): lift", type: boolean, readonly: true }
+      - { name: order, label: "Layout (designer only): position in the list (new pieces go last)", type: number, readonly: true }
 
   - name: brands
     label: Brands
-    type: file
-    path: src/content/brands.json
+    type: collection
+    path: src/content/brands
     format: json
-    list:
-      collapsible:
-        collapsed: true
-        summary: "{name}"
+    filename: "{id}.json"
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      primary: name
+      fields: [name, country]
+      sort: [order, name]
+      default:
+        sort: order
+        order: asc
     fields:
       - name: id
-        label: Brand ID (do not change for existing brands)
+        label: Brand ID
         type: string
         required: true
+        readonly: true
       - name: name
         label: Name
         type: string
@@ -173,3 +193,4 @@ content:
         type: image
       - { name: secondaryAr, label: "Layout (designer only): second image ratio", type: string, readonly: true }
       - { name: fit, label: "Layout (designer only): image fit", type: string, readonly: true }
+      - { name: order, label: "Layout (designer only): position", type: number, readonly: true }

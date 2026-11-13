@@ -1,0 +1,42 @@
+{
+  "id": "freifrau-leya-wingback",
+  "variants": true,
+  "mood": "/assets/freifrau-leya-wingback-cover.png",
+  "moodAr": "4 / 3",
+  "moodPos": "50% 50%",
+  "ixPicks": [
+    "/assets/freifrau-leya-wingback-blue-front.png"
+  ],
+  "gallery": [
+    "/assets/freifrau-leya-wingback-black-front.png",
+    "/assets/freifrau-leya-wingback-black-back.png",
+    "/assets/freifrau-leya-wingback-blue-front.png",
+    "/assets/freifrau-leya-wingback-blue-back.png",
+    "/assets/freifrau-leya-wingback-cognac-front.png",
+    "/assets/freifrau-leya-wingback-cognac-back.png",
+    "/assets/freifrau-leya-wingback-cognac-ottoman.png"
+  ],
+  "brand": "freifrau",
+  "name": "Leya Wingback Chair",
+  "designer": "Hoffmann Kahleyss Design",
+  "category": "Armchairs",
+  "images": [
+    "/assets/freifrau-leya-wingback-black-front.png",
+    "/assets/freifrau-leya-wingback-black-back.png",
+    "/assets/freifrau-leya-wingback-blue-front.png",
+    "/assets/freifrau-leya-wingback-blue-back.png",
+    "/assets/freifrau-leya-wingback-cognac-front.png",
+    "/assets/freifrau-leya-wingback-cognac-back.png",
+    "/assets/freifrau-leya-wingback-cognac-ottoman.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A wingback chair with a tautly upholstered shell and a soft cushion inside: clear and linear from the outside, enveloping once you sit down. Available on a wire frame, a disc base or a four-star base, with or without a rocking and tilting mechanism.",
+  "dims": "W 71 · D 86 · H 103 cm · Seat H 42",
+  "materials": "Upholstered shell · Wire frame, disc base or four-star base",
+  "colors": "Many fabrics and leathers · Chesterfield available",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "ottoman": true,
+  "order": 600
+}

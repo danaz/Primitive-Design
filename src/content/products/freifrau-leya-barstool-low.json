@@ -1,0 +1,29 @@
+{
+  "id": "freifrau-leya-barstool-low",
+  "variants": true,
+  "mood": "/assets/freifrau-leya-barstool-low-mood.png",
+  "moodAr": "4 / 3",
+  "moodPos": "50% 50%",
+  "ixPicks": [
+    "/assets/freifrau-leya-barstool-low-trim.png"
+  ],
+  "gallery": [
+    "/assets/freifrau-leya-barstool-low-trim.png"
+  ],
+  "brand": "freifrau",
+  "name": "Leya Barstool Low",
+  "designer": "Hoffmann Kahleyss Design",
+  "category": "Bar stools",
+  "images": [
+    "/assets/freifrau-leya-barstool-low-trim.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A tautly upholstered shell around a soft inner cushion, with an elegant low back. On a delicately poised wire frame or a height-adjustable swivel column base.",
+  "dims": "W 41 · D 47 · H 94 cm · Seat H 82",
+  "materials": "Upholstered shell · Wire frame or swivel column",
+  "colors": "Many fabrics and leathers",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 610
+}

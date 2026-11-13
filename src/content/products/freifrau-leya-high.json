@@ -1,0 +1,33 @@
+{
+  "id": "freifrau-leya-high",
+  "variants": true,
+  "mood": "/assets/freifrau-leya-high-mood-clean.png",
+  "moodAr": "4 / 3",
+  "moodPos": "50% 80%",
+  "ixPicks": [
+    "/assets/freifrau-leya-high-wire-trim.png"
+  ],
+  "gallery": [
+    "/assets/freifrau-leya-high-wire-trim.png",
+    "/assets/freifrau-leya-high-velvet-trim.png",
+    "/assets/freifrau-leya-high-swivel-trim.png"
+  ],
+  "brand": "freifrau",
+  "name": "Leya Armchair High",
+  "designer": "Hoffmann Kahleyss Design",
+  "category": "Armchairs",
+  "images": [
+    "/assets/freifrau-leya-high-wire-trim.png",
+    "/assets/freifrau-leya-high-velvet-trim.png",
+    "/assets/freifrau-leya-high-swivel-trim.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A tautly upholstered shell with a soft cushion inside and a higher back: clear and linear from the outside, outstandingly comfortable once you sit down. For the dining or conference table.",
+  "dims": "W 58 · D 59 · H 86 cm · Seat H 48",
+  "materials": "Upholstered shell · Wire, steel, wooden or swivel frame",
+  "colors": "Many fabrics and leathers",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 590
+}

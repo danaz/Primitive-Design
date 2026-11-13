@@ -1,0 +1,25 @@
+{
+  "id": "gaga-spot-stool",
+  "mood": "/assets/gaga-spot-mood.webp",
+  "moodAr": "16 / 10",
+  "moodPos": "50% 45%",
+  "brand": "gaga",
+  "name": "Spot Stool",
+  "designer": "Neil Nenner",
+  "category": "Chairs",
+  "price": {
+    "type": "fixed",
+    "amount": 1690
+  },
+  "images": [
+    "/assets/gaga-spot-stool.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A low, stackable stool from the Spot family.",
+  "dims": "H 42 cm · Seat Ø 26",
+  "materials": "Steel · Hand-woven cord",
+  "use": "Indoor / Outdoor",
+  "stackable": true,
+  "availability": "Made to order",
+  "order": 310
+}

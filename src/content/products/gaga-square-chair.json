@@ -1,0 +1,20 @@
+{
+  "id": "gaga-square-chair",
+  "brand": "gaga",
+  "name": "Square Chair",
+  "designer": "",
+  "category": "Chairs",
+  "price": {
+    "type": "request"
+  },
+  "images": [
+    "/assets/gaga-square-chair.avif"
+  ],
+  "ar": "3 / 4",
+  "desc": "A hand-woven side chair with an open, gridded back.",
+  "materials": "Steel · Hand-woven cord",
+  "use": "Indoor / Outdoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 60
+}

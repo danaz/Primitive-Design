@@ -1,0 +1,27 @@
+{
+  "id": "gaga-no5",
+  "mood": "/assets/gaga-no5-mood.jpg",
+  "moodPos": "50% 40%",
+  "brand": "gaga",
+  "name": "No 5",
+  "designer": "Neil Nenner",
+  "category": "Chairs",
+  "price": {
+    "type": "fixed",
+    "amount": 1390
+  },
+  "variants": true,
+  "images": [
+    "/assets/gaga-no5-natural.png",
+    "/assets/gaga-no5-plaid.png"
+  ],
+  "ar": "4 / 5",
+  "colors": "Natural, grey check",
+  "desc": "A full-backed dining chair, hand-woven over a steel frame into a dense web of colour.",
+  "dims": "W 41 · D 52 · H 88 cm",
+  "materials": "Steel · Hand-woven cord",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 300
+}

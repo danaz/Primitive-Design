@@ -1,0 +1,30 @@
+{
+  "id": "koozo-jerry",
+  "mood": "/assets/koozo-jerry-mood.jpg",
+  "brand": "koozo",
+  "name": "Jerry",
+  "designer": "Stefan Schöning",
+  "category": "Armchairs",
+  "price": {
+    "type": "fixed",
+    "amount": 5800
+  },
+  "images": [
+    "/assets/koozo-jerry-1.png",
+    "/assets/koozo-jerry-5.png",
+    "/assets/koozo-jerry-4.png",
+    "/assets/koozo-jerry-7.png",
+    "/assets/koozo-jerry-8.png",
+    "/assets/koozo-jerry-9.png"
+  ],
+  "ar": "5 / 4",
+  "pdf": "/assets/koozo-jerry-spec.pdf",
+  "desc": "An elegant armchair balancing a lightly organic form with comfort. Made in Belgium.",
+  "dims": "W 76 · D 76 · H 83 cm · Seat H 44",
+  "materials": "Solid beech frame · Steel springs · Cold foam",
+  "colors": "Many fabrics and leathers · Aluminium or black legs",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 160
+}

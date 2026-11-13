@@ -1,0 +1,33 @@
+{
+  "id": "thonet-s243",
+  "variants": true,
+  "mood": "/assets/thonet-s243-mood.png",
+  "moodPos": "50% 50%",
+  "gallery": [
+    "/assets/thonet-s243-black.png",
+    "/assets/thonet-s243-olive.png",
+    "/assets/thonet-s243-red.png"
+  ],
+  "brand": "thonet",
+  "name": "S 243",
+  "designer": "",
+  "category": "Chairs",
+  "price": {
+    "type": "request"
+  },
+  "images": [
+    "/assets/thonet-s243-black.png",
+    "/assets/thonet-s243-olive.png",
+    "/assets/thonet-s243-red.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A light, stackable chair for living and working spaces, its moulded wood seat and back proportioned to the tubular steel frame.",
+  "dims": "W 52 · D 48 · H 79 cm · Seat H 47 · Stacks 5",
+  "materials": "Chrome steel · Beech plywood",
+  "colors": "Chrome with black beech · Olive or red with matching beech",
+  "pdf": "/assets/thonet-s243-spec.pdf",
+  "use": "Indoor",
+  "stackable": true,
+  "availability": "On request",
+  "order": 680
+}

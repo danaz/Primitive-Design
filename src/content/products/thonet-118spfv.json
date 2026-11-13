@@ -1,0 +1,34 @@
+{
+  "id": "thonet-118spfv",
+  "variants": true,
+  "mood": "/assets/thonet-118-mood.png",
+  "moodPos": "50% 40%",
+  "gallery": [
+    "/assets/thonet-118spfv-beech.png",
+    "/assets/thonet-118spfv-olive.png",
+    "/assets/thonet-118spfv-black.png"
+  ],
+  "brand": "thonet",
+  "name": "118 SPFV",
+  "designer": "Sebastian Herkner",
+  "category": "Chairs",
+  "price": {
+    "type": "request"
+  },
+  "images": [
+    "/assets/thonet-118spfv-beech.png",
+    "/assets/thonet-118spfv-olive.png",
+    "/assets/thonet-118spfv-black.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "The upholstered fine-dining armchair of the 118 family, with a larger seat, a wider, more reclined back and bentwood arms, made for long meals.",
+  "dims": "W 57 · D 52 · H 80 cm",
+  "materials": "Solid beech · Upholstered seat",
+  "colors": "Natural, stained or lacquered · Many fabrics",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "On request",
+  "year": "2018",
+  "pdf": "/assets/thonet-118spfv-spec.pdf",
+  "order": 700
+}

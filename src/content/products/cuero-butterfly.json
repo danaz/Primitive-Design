@@ -1,0 +1,37 @@
+{
+  "id": "cuero-butterfly",
+  "variants": true,
+  "mood": "/assets/cuero-butterfly-mood3.jpg",
+  "moodPos": "50% 78%",
+  "ixPicks": [
+    "/assets/cuero-butterfly-graphite-mood.jpg"
+  ],
+  "ixPhoto": true,
+  "gallery": [
+    "/assets/cuero-butterfly-cognac.png",
+    "/assets/cuero-butterfly-black.png",
+    "/assets/cuero-butterfly-natural.png"
+  ],
+  "brand": "cuero",
+  "name": "Butterfly Pampa Mariposa",
+  "designer": "Cuero",
+  "category": "Armchairs",
+  "price": {
+    "type": "fixed",
+    "amount": 4800
+  },
+  "images": [
+    "/assets/cuero-butterfly-cognac.png",
+    "/assets/cuero-butterfly-black.png",
+    "/assets/cuero-butterfly-natural.png"
+  ],
+  "ar": "5 / 4",
+  "desc": "A classic of international design, in fine Italian leather on Swedish steel, made with close attention to quality and sustainability.",
+  "dims": "W 87 · D 86 · H 92 cm",
+  "materials": "Steel · Removable leather sling",
+  "colors": "Cognac, black, natural leather · Black or chrome frame",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 630
+}

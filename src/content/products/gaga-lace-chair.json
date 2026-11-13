@@ -1,0 +1,21 @@
+{
+  "id": "gaga-lace-chair",
+  "brand": "gaga",
+  "name": "Lace Chair",
+  "designer": "",
+  "category": "Chairs",
+  "price": {
+    "type": "request"
+  },
+  "images": [
+    "/assets/gaga-lace-chair.avif",
+    "/assets/gaga-lace-chair-back.avif"
+  ],
+  "ar": "3 / 4",
+  "desc": "A hand-woven side chair on slender steel legs.",
+  "materials": "Steel · Hand-woven cord",
+  "use": "Indoor / Outdoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 40
+}

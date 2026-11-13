@@ -1,0 +1,53 @@
+{
+  "id": "horm-cherish",
+  "variants": true,
+  "mood": "/assets/horm-cherish-mood.webp",
+  "brand": "horm",
+  "name": "Cherish",
+  "designer": "Horm engineering department",
+  "category": "Chairs",
+  "price": {
+    "type": "from",
+    "amount": 1270
+  },
+  "gallery": [
+    "/assets/horm-cherish-black-v4.png",
+    "/assets/horm-cherish-white-v4.png",
+    "/assets/horm-cherish-dusty-grey-v4.png",
+    "/assets/horm-cherish-beige-v4.png",
+    "/assets/horm-cherish-wine-red-v4.png",
+    "/assets/horm-cherish-brown-v4.png",
+    "/assets/horm-cherish-graphite-v4.png",
+    "/assets/horm-cherish-whitened-beech-v4.png",
+    "/assets/horm-cherish-natural-beech-v4.png",
+    "/assets/horm-cherish-oak-beech-v4.png",
+    "/assets/horm-cherish-mocha-beech-v4.png",
+    "/assets/horm-cherish-black-beech-v4.png",
+    "/assets/horm-cherish-walnut-beech-v4.png"
+  ],
+  "images": [
+    "/assets/horm-cherish-black-v4.png",
+    "/assets/horm-cherish-white-v4.png",
+    "/assets/horm-cherish-dusty-grey-v4.png",
+    "/assets/horm-cherish-beige-v4.png",
+    "/assets/horm-cherish-wine-red-v4.png",
+    "/assets/horm-cherish-brown-v4.png",
+    "/assets/horm-cherish-graphite-v4.png",
+    "/assets/horm-cherish-whitened-beech-v4.png",
+    "/assets/horm-cherish-natural-beech-v4.png",
+    "/assets/horm-cherish-oak-beech-v4.png",
+    "/assets/horm-cherish-mocha-beech-v4.png",
+    "/assets/horm-cherish-black-beech-v4.png",
+    "/assets/horm-cherish-walnut-beech-v4.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A comfortable, durable chair suited to public and domestic spaces alike, its proportions refined by Horm’s engineering department.",
+  "dims": "W 39 · D 46 · H 80 cm",
+  "materials": "Solid beech · Beech plywood seat",
+  "colors": "7 lacquer colours · 6 beech stains",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "In production",
+  "pdf": "/assets/horm-cherish-spec.pdf",
+  "order": 460
+}

@@ -1,0 +1,30 @@
+{
+  "id": "horm-bifronte",
+  "variants": true,
+  "mood": "/assets/horm-bifronte-mood.webp",
+  "brand": "horm",
+  "name": "Bifronte",
+  "designer": "StH",
+  "category": "Tables",
+  "price": {
+    "type": "from",
+    "amount": 3900
+  },
+  "gallery": [
+    "/assets/bif/v2/angle.png",
+    "/assets/bif/v2/front.png"
+  ],
+  "images": [
+    "/assets/bif/v2/angle.png",
+    "/assets/bif/v2/front.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A side table extending Toyo Ito’s Ripples bench, winner of the 2004 Compasso d’Oro. A section of the bench is held in an arch of extra-clear glass, so the wood appears to float.",
+  "dims": "W 52 · D 37 · H 46 cm",
+  "materials": "Curved glass · Solid wood shelf",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "In production",
+  "pdf": "/assets/horm-bifronte-spec.pdf",
+  "order": 410
+}

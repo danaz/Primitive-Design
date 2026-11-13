@@ -1,0 +1,28 @@
+{
+  "id": "yamakawa-cd079",
+  "mood": "/assets/yk/cd079-cover-beige.jpg",
+  "moodPos": "50% 50%",
+  "gallery": [
+    "/assets/yk/cd079.png"
+  ],
+  "fit": "cover",
+  "brand": "yamakawa",
+  "name": "CD 079",
+  "designer": "",
+  "category": "Chairs",
+  "price": {
+    "type": "fixed",
+    "amount": 1690
+  },
+  "images": [
+    "/assets/yk/cd079.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "A dining chair in hand-woven rattan on a metal sled base.",
+  "materials": "Metal · Hand-woven rattan",
+  "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
+  "use": "Indoor · Outdoor version",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 220
+}

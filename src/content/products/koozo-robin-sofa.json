@@ -1,0 +1,26 @@
+{
+  "id": "koozo-robin-sofa",
+  "mood": "/assets/koozo-robin-mood.jpg",
+  "brand": "koozo",
+  "name": "Robin",
+  "designer": "R&D KOOZO",
+  "category": "Sofas",
+  "price": {
+    "type": "request"
+  },
+  "variants": true,
+  "images": [
+    "/assets/koozo-robin-chaise.jpg",
+    "/assets/koozo-dennis.jpg"
+  ],
+  "ar": "5 / 4",
+  "desc": "A Robin sofa with chaise longue, upholstered to order.",
+  "dims": "Modular · W 210–257 cm · D 113 · H 68 cm · Seat H 38",
+  "materials": "Upholstered · Black feet",
+  "colors": "Many fabrics and leathers",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "pdf": "/assets/koozo-robin-spec.pdf",
+  "order": 380
+}

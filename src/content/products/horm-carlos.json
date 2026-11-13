@@ -1,0 +1,34 @@
+{
+  "id": "horm-carlos",
+  "variants": true,
+  "mood": "/assets/horm-carlos-mood.jpg",
+  "brand": "horm",
+  "name": "Carlos",
+  "designer": "Renato Zamberlan",
+  "category": "Storage & shelving",
+  "price": {
+    "type": "from",
+    "amount": 23000
+  },
+  "gallery": [
+    "/assets/horm-carlos-front-dark.png",
+    "/assets/horm-carlos-white.png",
+    "/assets/horm-carlos-front-long.png"
+  ],
+  "images": [
+    "/assets/horm-carlos-front-dark.png",
+    "/assets/horm-carlos-white.png",
+    "/assets/horm-carlos-front-long.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "Inspired by the Op Art of Carlos Cruz-Diez. Its colour shifts with your viewpoint, opening and closing like a curtain as you move.",
+  "dims": "W 144/192/240 · D 49 · H 66/98 cm",
+  "materials": "Lacquered body · Oak veneer doors · Glass shelves · Optional iron base",
+  "colors": "White or mocha body · Oak doors · White or black base",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "In production",
+  "pdf": "https://www.yumpu.com/en/document/read/65795745/carlos-en/1",
+  "video": "https://horm.it/qrcodevideo/carlosvideo.php",
+  "order": 210
+}

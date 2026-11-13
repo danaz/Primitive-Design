@@ -14,12 +14,14 @@ src/
   main.jsx            entry point
   config.js           site settings (columns, prices on/off, etc.)
   content/
-    products.json     products: names, prices, images, specs (edited by the client)
-    brands.json       brands: names, countries, texts, images (edited by the client)
+    products/<id>.json  one file per product (edited by the client); `order` sets the sequence
+    brands/<id>.json    one file per brand (edited by the client)
   data/
-    products.js       loads products.json (+ group-shot list)
-    brands.js         loads brands.json
+    products.js       loads content/products (+ group-shot list)
+    brands.js         loads content/brands
+    load.js           sorts items by `order`
     clean.js          normalises CMS output for the site logic
+scripts/check-assets.mjs  runs before every build; fails if a referenced file is missing
     catalog.js        categories and sort options
     mood.js           mood images on the home grid
     intro.js          opening-animation layout
@@ -30,9 +32,9 @@ src/
 ```
 
 Typical edits:
-- Products and brands: `src/content/*.json`. The client edits these through
+- Products and brands: `src/content/products/` and `src/content/brands/`. The client edits these through
   Pages CMS (https://app.pagescms.org, config in `.pages.yml`); see
-  `docs/client-editing-guide.md`. Uploaded images land in `public/assets/`.
+  `docs/client-editing-guide.md`. Client uploads land in `public/assets/uploads/` (the CMS media screen only sees that folder).
 - Change layout or copy of a section: the matching file in `src/views/`.
 
 Raw materials (uploads, scraps, old design versions) are kept outside the repo in

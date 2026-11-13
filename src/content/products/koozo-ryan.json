@@ -1,0 +1,27 @@
+{
+  "id": "koozo-ryan",
+  "mood": "/assets/koozo-ryan-mood.png",
+  "moodPos": "50% 56%",
+  "brand": "koozo",
+  "name": "Ryan",
+  "designer": "",
+  "category": "Sofas",
+  "price": {
+    "type": "from",
+    "amount": 9900,
+    "max": 26850
+  },
+  "images": [
+    "/assets/koozo-ryan-sofa.png",
+    "/assets/koozo-ryan-loveseat.png",
+    "/assets/koozo-ryan-corner.png"
+  ],
+  "ar": "5 / 4",
+  "desc": "A sofa offered in several sizes, fabrics, colours and seat options. Shown at 233 cm.",
+  "dims": "Several sizes · Shown: L 233 cm",
+  "colors": "Many fabrics and seat options",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "Made to order",
+  "order": 370
+}

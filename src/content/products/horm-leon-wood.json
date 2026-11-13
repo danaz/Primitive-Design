@@ -1,0 +1,35 @@
+{
+  "id": "horm-leon-wood",
+  "mood": "/assets/horm-leon-wood-mood2.png",
+  "moodPos": "50% 90%",
+  "brand": "horm",
+  "name": "Leon Wood",
+  "designer": "StH",
+  "category": "Storage & shelving",
+  "price": {
+    "type": "from",
+    "amount": 10400
+  },
+  "variants": true,
+  "gallery": [
+    "/assets/horm-leonwood-1.png",
+    "/assets/horm-leonwood-2.png",
+    "/assets/horm-leonwood-0.png"
+  ],
+  "images": [
+    "/assets/horm-leonwood-1.png",
+    "/assets/horm-leonwood-2.png",
+    "/assets/horm-leonwood-0.png"
+  ],
+  "ar": "4 / 5",
+  "desc": "The Leon collection rendered entirely in wood. The vertical rhythm of the doors remains, now in a single material that brings out the grain.",
+  "dims": "Several widths and heights · D 49 · H 98 cm",
+  "materials": "Solid wood",
+  "colors": "Black body · Mocha doors",
+  "use": "Indoor",
+  "stackable": false,
+  "availability": "In production",
+  "pdf": "https://www.yumpu.com/en/document/read/65187820/leon-en/1",
+  "video": "https://horm.it/qrcodevideo/leonwoodwhitenedreel.php",
+  "order": 490
+}

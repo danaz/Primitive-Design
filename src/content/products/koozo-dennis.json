@@ -1,0 +1,28 @@
+{
+  "id": "koozo-dennis",
+  "mood": "/assets/koozo-dennis-mood.jpg",
+  "moodPos": "50% 58%",
+  "brand": "koozo",
+  "name": "Dennis",
+  "designer": "Matthias Demacker",
+  "category": "Sofas",
+  "price": {
+    "type": "from",
+    "amount": 10900,
+    "max": 27100
+  },
+  "images": [
+    "/assets/koozo-dennis-sofa.png",
+    "/assets/koozo-dennis-loveseat.png"
+  ],
+  "ar": "5 / 4",
+  "desc": "A sofa offered in several sizes, fabrics, colours and seat options. Shown at 250 cm.",
+  "dims": "Modular · W 100–244 cm · D 98 · H 71 cm · Seat H 45 · Shown: L 250 cm",
+  "materials": "Upholstered · Chrome or oiled oak legs",
+  "colors": "Many fabrics and seat options",
+  "use": "Indoor",
+  "stackable": false,
+  "pdf": "/assets/koozo-dennis-spec.pdf",
+  "availability": "Made to order",
+  "order": 340
+}

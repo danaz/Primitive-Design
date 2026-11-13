@@ -1,6 +1,6 @@
 // Content in src/content/*.json is edited by the client through Pages CMS.
 // These helpers turn it back into the exact shape the site logic expects:
-// - image paths: the CMS writes "/assets/x.jpg"; the site uses "assets/x.jpg"
+// - image paths: the CMS writes them with a leading slash ("/assets/…"); the site uses "assets/…"
 // - empty optional fields (blank text, empty lists, unset numbers) are removed,
 //   because the logic treats "missing" and "empty" differently.
 
