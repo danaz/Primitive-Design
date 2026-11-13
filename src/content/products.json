@@ -1,28 +1,5 @@
 [
   {
-    "id": "indo-stool-light",
-    "name": "Natural Wooden Stool",
-    "brand": "indo",
-    "category": "Accessories",
-    "price": {
-      "type": "request"
-    },
-    "availability": "In stock",
-    "desc": "The same three-legged stool in a lighter natural wood. Works as a seat, side table or nightstand.",
-    "materials": "Solid wood",
-    "colors": "Natural",
-    "use": "Indoor",
-    "stackable": false,
-    "images": [
-      "/assets/indo-stool-4.png"
-    ],
-    "ar": "4 / 5",
-    "variants": false,
-    "ixPhoto": false,
-    "ottoman": false,
-    "lift": false
-  },
-  {
     "id": "thonet-118",
     "name": "118 SP",
     "brand": "thonet",
