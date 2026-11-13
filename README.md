@@ -21,3 +21,12 @@ Raw materials (uploads, scraps, old design versions) are kept outside the repo i
 1. Work on a branch, never directly on `main`.
 2. Netlify builds a preview link for each pull request; check it.
 3. Merge to `main` → the live site updates.
+
+## Deploying
+
+The folder is linked to the Netlify site `primitiveanddesign` (primitiveanddesign.com) with the Netlify CLI.
+
+- Preview (does not touch the live site): `netlify deploy --dir site`
+- Live, only after the user approves the preview: `netlify deploy --dir site --prod`
+
+Previews are protected; open them while signed in to Netlify.
