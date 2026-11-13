@@ -1,236 +1,233 @@
 [
   {
-    "id": "indo-stool",
-    "variants": true,
-    "brand": "indo",
-    "name": "Dark Wooden Stool",
-    "designer": "",
-    "category": "Accessories",
-    "price": {
-      "type": "request"
-    },
-    "images": [
-      "/assets/indo-stool-1.png",
-      "/assets/indo-stool-2.png",
-      "/assets/indo-stool-3.png"
-    ],
-    "ar": "4 / 5",
-    "desc": "A three-legged stool carved from solid wood, with a dished round seat. Works as a seat, side table or nightstand.",
-    "materials": "Solid wood",
-    "colors": "Dark stained",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "In stock"
-  },
-  {
     "id": "indo-stool-light",
-    "brand": "indo",
     "name": "Natural Wooden Stool",
-    "designer": "",
+    "brand": "indo",
     "category": "Accessories",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/indo-stool-4.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "In stock",
     "desc": "The same three-legged stool in a lighter natural wood. Works as a seat, side table or nightstand.",
     "materials": "Solid wood",
     "colors": "Natural",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In stock"
+    "images": [
+      "/assets/indo-stool-4.png"
+    ],
+    "ar": "4 / 5",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "thonet-118",
-    "mood": "/assets/thonet-118-mood2.jpg",
-    "moodPos": "50% 50%",
-    "brand": "thonet",
     "name": "118 SP",
+    "brand": "thonet",
     "designer": "Sebastian Herkner, 2018",
     "category": "Chairs",
-    "ixPicks": [
-      "/assets/thonet-118-m-norm.png",
-      "/assets/thonet-118sp-norm.png"
-    ],
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/thonet-118m-trim.png",
-      "/assets/thonet-118-m-norm.png",
-      "/assets/thonet-118sp-norm.png"
-    ],
-    "ar": "4 / 3",
+    "availability": "On request",
     "desc": "Herkner’s “Offenbach chair” reduces the wooden chair to its fewest elements, a principle Michael Thonet set in the 1850s. Legs rounded outside and straight inside echo the horseshoe seat. Shown as 118 M with a plywood seat; also with canework.",
     "dims": "W 42 · D 50 · H 80 cm · Seat H 46",
     "materials": "Bent beech · Plywood or cane seat",
     "colors": "Natural, stained or lacquered",
     "use": "Indoor",
     "stackable": false,
-    "availability": "On request"
+    "images": [
+      "/assets/thonet-118m-trim.png",
+      "/assets/thonet-118-m-norm.png",
+      "/assets/thonet-118sp-norm.png"
+    ],
+    "mood": "/assets/thonet-118-mood2.jpg",
+    "ar": "4 / 3",
+    "variants": false,
+    "moodPos": "50% 50%",
+    "ixPicks": [
+      "/assets/thonet-118-m-norm.png",
+      "/assets/thonet-118sp-norm.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-lace-chair",
-    "brand": "gaga",
     "name": "Lace Chair",
-    "designer": "",
+    "brand": "gaga",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
+    "availability": "Made to order",
+    "desc": "A hand-woven side chair on slender steel legs.",
+    "materials": "Steel · Hand-woven cord",
+    "use": "Indoor / Outdoor",
+    "stackable": false,
     "images": [
       "/assets/gaga-lace-chair.avif",
       "/assets/gaga-lace-chair-back.avif"
     ],
     "ar": "3 / 4",
-    "desc": "A hand-woven side chair on slender steel legs.",
-    "materials": "Steel · Hand-woven cord",
-    "use": "Indoor / Outdoor",
-    "stackable": false,
-    "availability": "Made to order"
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-lace-armchair",
-    "brand": "gaga",
     "name": "Lace Armchair",
-    "designer": "",
+    "brand": "gaga",
     "category": "Armchairs",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/gaga-lace-armchair.avif"
-    ],
-    "ar": "3 / 4",
+    "availability": "Made to order",
     "desc": "A hand-woven armchair with a wrapping back, on a sled base.",
     "materials": "Steel · Hand-woven cord",
     "use": "Indoor / Outdoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-lace-armchair.avif"
+    ],
+    "ar": "3 / 4",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-square-chair",
-    "brand": "gaga",
     "name": "Square Chair",
-    "designer": "",
+    "brand": "gaga",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/gaga-square-chair.avif"
-    ],
-    "ar": "3 / 4",
+    "availability": "Made to order",
     "desc": "A hand-woven side chair with an open, gridded back.",
     "materials": "Steel · Hand-woven cord",
     "use": "Indoor / Outdoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-square-chair.avif"
+    ],
+    "ar": "3 / 4",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-zigi",
-    "mood": "/assets/gaga-zigi-mood.webp",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 70%",
-    "brand": "gaga",
     "name": "Zigi Easy Chair",
+    "brand": "gaga",
     "designer": "Yaacov Kaufman",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 4200
     },
-    "images": [
-      "/assets/gaga-yk07.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A low, generous lounge chair, hand-woven over a fine steel frame. Weatherproof.",
     "dims": "W 87 · D 57 · H 82 cm · Seat H 43",
     "materials": "Steel · Hand-woven cord",
     "colors": "Many cord colours",
     "use": "Indoor / Outdoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-yk07.png"
+    ],
+    "mood": "/assets/gaga-zigi-mood.webp",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 70%",
+    "moodAr": "16 / 10",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cl049",
-    "ixPicks": [
-      "/assets/yk/cl049.png"
-    ],
-    "mood": "/assets/yamakawa-cl049-mood.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 50%",
-    "gallery": [
-      "/assets/yk/cl049.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "CL 049 + CF 049",
+    "brand": "yamakawa",
     "designer": "Yamakawa Rattan",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 6800
     },
-    "images": [
-      "/assets/yamakawa-cl049-main.jpg"
-    ],
-    "ar": "3 / 4",
+    "availability": "Made to order",
     "desc": "A high-backed rattan lounge chair (CL 049) with matching footstool (CF 049), hand-woven in Japan.",
     "dims": "Chair: W 77 · H 96 cm · Seat H 38 · Footstool: W 55 · H 43 cm",
     "materials": "Metal · Woven rattan",
     "colors": "Natural, dark",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yamakawa-cl049-main.jpg"
+    ],
+    "gallery": [
+      "/assets/yk/cl049.png"
+    ],
+    "mood": "/assets/yamakawa-cl049-mood.jpg",
+    "ar": "3 / 4",
+    "variants": false,
+    "fit": "cover",
+    "moodPos": "50% 50%",
+    "moodAr": "16 / 10",
+    "ixPicks": [
+      "/assets/yk/cl049.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-stereo",
-    "variants": true,
-    "mood": "/assets/horm-stereo-mood3.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 50%",
-    "brand": "horm",
     "name": "Stereo",
+    "brand": "horm",
     "designer": "Luca Nichetto",
     "category": "Chairs",
     "price": {
       "type": "from",
       "amount": 2300
     },
-    "gallery": [
-      "/assets/horm-stereo-white-norm.png",
-      "/assets/horm-stereo-black-norm.png",
-      "/assets/horm-stereo-sand-norm.png"
-    ],
-    "images": [
-      "/assets/horm-stereo-white-norm.png",
-      "/assets/horm-stereo-black-norm.png",
-      "/assets/horm-stereo-sand-norm.png"
-    ],
-    "ar": "4 / 3",
+    "availability": "In production",
     "desc": "A stackable chair from 2008, with a polypropylene shell on painted or chromed metal legs.",
     "dims": "W 58 · D 57.5 · H 81 cm · Seat H 45",
     "materials": "Polypropylene · Painted or chrome legs",
     "colors": "Black, grey, white, sand · Matching or chrome legs",
     "use": "Indoor / Outdoor",
     "stackable": true,
-    "availability": "In production",
-    "pdf": "https://www.yumpu.com/en/document/read/65799084/stereo-en/1"
+    "images": [
+      "/assets/horm-stereo-white-norm.png",
+      "/assets/horm-stereo-black-norm.png",
+      "/assets/horm-stereo-sand-norm.png"
+    ],
+    "gallery": [
+      "/assets/horm-stereo-white-norm.png",
+      "/assets/horm-stereo-black-norm.png",
+      "/assets/horm-stereo-sand-norm.png"
+    ],
+    "mood": "/assets/horm-stereo-mood3.jpg",
+    "pdf": "https://www.yumpu.com/en/document/read/65799084/stereo-en/1",
+    "ar": "4 / 3",
+    "variants": true,
+    "moodPos": "50% 50%",
+    "moodAr": "16 / 10",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-robin",
-    "variants": true,
-    "mood": "/assets/koozo-robin-junior-mood.jpg",
-    "moodPos": "50% 56%",
-    "gallery": [
-      "/assets/koozo-robin-junior-white-wide.png",
-      "/assets/koozo-robin-junior-grey-wide.png"
-    ],
-    "brand": "koozo",
     "name": "Robin Junior",
+    "brand": "koozo",
     "designer": "R&D KOOZO",
     "category": "Sofas",
     "price": {
@@ -238,6 +235,13 @@
       "amount": 10400,
       "max": 27300
     },
+    "availability": "Made to order",
+    "desc": "A timeless sofa that pairs straight lines with soft, organic rounding. Minimal in form, generous in comfort.",
+    "dims": "Modular · W 210–257 cm, combined up to 399 cm · Junior: D 105 · Seat H 41 · Robin: D 113 · Seat H 38",
+    "materials": "Upholstered · Black feet",
+    "colors": "Many fabrics and leathers",
+    "use": "Indoor",
+    "stackable": false,
     "images": [
       "/assets/koozo-robin-junior-hero.png",
       "/assets/koozo-robin-junior-grey.jpg",
@@ -247,124 +251,147 @@
       "/assets/koozo-robin-junior-elements.jpg",
       "/assets/koozo-robin-junior-elements-green.jpg"
     ],
+    "gallery": [
+      "/assets/koozo-robin-junior-white-wide.png",
+      "/assets/koozo-robin-junior-grey-wide.png"
+    ],
+    "mood": "/assets/koozo-robin-junior-mood.jpg",
+    "pdf": "/assets/koozo-robin-junior-spec.pdf",
     "ar": "5 / 4",
-    "desc": "A timeless sofa that pairs straight lines with soft, organic rounding. Minimal in form, generous in comfort.",
-    "dims": "Modular · W 210–257 cm, combined up to 399 cm · Junior: D 105 · Seat H 41 · Robin: D 113 · Seat H 38",
-    "materials": "Upholstered · Black feet",
-    "colors": "Many fabrics and leathers",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "Made to order",
-    "pdf": "/assets/koozo-robin-junior-spec.pdf"
+    "variants": true,
+    "moodPos": "50% 56%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-double-d-stool",
-    "mood": "/assets/gaga-double-d-stool-mood.webp",
-    "moodPos": "50% 30%",
-    "brand": "gaga",
     "name": "Double D Bar Stool",
+    "brand": "gaga",
     "designer": "Yaacov Kaufman",
     "category": "Bar stools",
     "price": {
       "type": "fixed",
       "amount": 1650
     },
-    "images": [
-      "/assets/gaga-double-d-stool-trim.png"
-    ],
-    "ar": "2 / 3",
+    "availability": "Made to order",
     "desc": "A stackable bar stool with a hand-woven seat.",
     "dims": "W 47 · D 47 · H 90/100 cm",
     "materials": "Steel · Hand-woven cord",
     "colors": "Many cord colours",
     "use": "Indoor / Outdoor",
     "stackable": true,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-double-d-stool-trim.png"
+    ],
+    "mood": "/assets/gaga-double-d-stool-mood.webp",
+    "ar": "2 / 3",
+    "variants": false,
+    "moodPos": "50% 30%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-spot",
-    "mood": "/assets/gaga-spot-bar-mood.jpg",
-    "moodPos": "50% 100%",
-    "brand": "gaga",
     "name": "Spot Bar Stool",
+    "brand": "gaga",
     "designer": "Neil Nenner",
     "category": "Bar stools",
     "price": {
       "type": "fixed",
       "amount": 890
     },
-    "images": [
-      "/assets/gaga-spot-single-v2.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A compact, stackable woven stool.",
     "dims": "W 39 · D 40 · H 65/75 cm · Seat Ø 26",
     "materials": "Steel · Hand-woven cord",
     "colors": "Many cord colours",
     "use": "Indoor / Outdoor",
     "stackable": true,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-spot-single-v2.png"
+    ],
+    "mood": "/assets/gaga-spot-bar-mood.jpg",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 100%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-double-d-low",
-    "mood": "/assets/gaga-2rings-mood2.webp",
-    "moodPos": "50% 50%",
-    "brand": "gaga",
     "name": "Double D Low Chair",
+    "brand": "gaga",
     "designer": "Yaacov Kaufman",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 3200
     },
-    "images": [
-      "/assets/gaga-yk09.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A low woven chair with a relaxed seat height. Stackable and weatherproof.",
     "dims": "W 74 · D 66 · H 77 cm · Seat H 40",
     "materials": "Steel · Hand-woven cord",
     "use": "Indoor / Outdoor",
     "stackable": true,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-yk09.png"
+    ],
+    "mood": "/assets/gaga-2rings-mood2.webp",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-jason",
-    "mood": "/assets/koozo-jason-mood-169.jpg",
-    "brand": "koozo",
     "name": "Jason",
+    "brand": "koozo",
     "designer": "Stefan Schöning",
     "category": "Sofas",
     "price": {
       "type": "from",
       "amount": 12400
     },
-    "images": [
-      "/assets/koozo-jason.png"
-    ],
-    "ar": "5 / 4",
+    "availability": "Made to order",
     "desc": "A sofa shaped around seating comfort, its organic lines softening a minimal form. At home in modern and classic interiors.",
     "dims": "Modular · W 110–330 cm, combined 246–511 cm · D 110 (chaise 162) · H 66–69 cm · Seat H 39",
     "materials": "Solid beech frame · Steel springs · Cold foam · Black feet",
     "colors": "Many fabrics and leathers",
-    "pdf": "/assets/koozo-jason-spec.pdf",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/koozo-jason.png"
+    ],
+    "mood": "/assets/koozo-jason-mood-169.jpg",
+    "pdf": "/assets/koozo-jason-spec.pdf",
+    "ar": "5 / 4",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-fay",
-    "mood": "/assets/koozo-fay-mood.jpg",
-    "moodPos": "50% 54%",
-    "brand": "koozo",
     "name": "Fay",
-    "designer": "",
+    "brand": "koozo",
     "category": "Sofas",
     "price": {
       "type": "from",
       "amount": 11400,
       "max": 27750
     },
+    "availability": "Made to order",
+    "desc": "A sofa offered in several sizes, fabrics, colours and seat options. Shown at 249 cm.",
+    "dims": "Several sizes · Shown: L 249 cm",
+    "materials": "Upholstered · Metal or oak legs",
+    "colors": "Many fabrics and seat options",
+    "use": "Indoor",
+    "stackable": false,
     "images": [
       "/assets/koozo-fay-chaise.png",
       "/assets/koozo-fay-chaise-angle.png",
@@ -372,27 +399,32 @@
       "/assets/koozo-fay-a.png",
       "/assets/koozo-fay-loveseat.png"
     ],
-    "ar": "5 / 4",
-    "desc": "A sofa offered in several sizes, fabrics, colours and seat options. Shown at 249 cm.",
-    "dims": "Several sizes · Shown: L 249 cm",
-    "materials": "Upholstered · Metal or oak legs",
-    "colors": "Many fabrics and seat options",
-    "use": "Indoor",
-    "stackable": false,
+    "mood": "/assets/koozo-fay-mood.jpg",
     "pdf": "/assets/koozo-fay-spec.pdf",
-    "availability": "Made to order"
+    "ar": "5 / 4",
+    "variants": false,
+    "moodPos": "50% 54%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-jerry",
-    "mood": "/assets/koozo-jerry-mood.jpg",
-    "brand": "koozo",
     "name": "Jerry",
+    "brand": "koozo",
     "designer": "Stefan Schöning",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 5800
     },
+    "availability": "Made to order",
+    "desc": "An elegant armchair balancing a lightly organic form with comfort. Made in Belgium.",
+    "dims": "W 76 · D 76 · H 83 cm · Seat H 44",
+    "materials": "Solid beech frame · Steel springs · Cold foam",
+    "colors": "Many fabrics and leathers · Aluminium or black legs",
+    "use": "Indoor",
+    "stackable": false,
     "images": [
       "/assets/koozo-jerry-1.png",
       "/assets/koozo-jerry-5.png",
@@ -401,285 +433,311 @@
       "/assets/koozo-jerry-8.png",
       "/assets/koozo-jerry-9.png"
     ],
-    "ar": "5 / 4",
+    "mood": "/assets/koozo-jerry-mood.jpg",
     "pdf": "/assets/koozo-jerry-spec.pdf",
-    "desc": "An elegant armchair balancing a lightly organic form with comfort. Made in Belgium.",
-    "dims": "W 76 · D 76 · H 83 cm · Seat H 44",
-    "materials": "Solid beech frame · Steel springs · Cold foam",
-    "colors": "Many fabrics and leathers · Aluminium or black legs",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "Made to order"
+    "ar": "5 / 4",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "janua-bb11-clamp",
-    "variants": true,
-    "mood": "/assets/janua-clamp-mood.png",
-    "moodPos": "50% 50%",
-    "brand": "janua",
     "name": "BB 11 Clamp",
+    "brand": "janua",
     "designer": "Bernd Benninghoff",
     "category": "Tables",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/janua-clamp-1w.png"
-    ],
-    "ar": "4 / 3",
-    "shape": "wide",
+    "availability": "Made to order",
     "desc": "A table system in which individual solid-wood planks are held together by two adjustable flat-steel clamps instead of glue. It can be taken apart and set up by one person.",
     "dims": "L 180–300 · W 95 or 105 · H 75 cm · Top 5.5 cm",
     "materials": "Solid oak planks · Powder-coated flat steel frame (50 × 15 mm)",
     "colors": "Oiled natural or white-pigmented oak · Brushed or chainsaw finish · Black RAL 9005 frame",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/janua-clamp-1w.png"
+    ],
+    "mood": "/assets/janua-clamp-mood.png",
+    "ar": "4 / 3",
+    "variants": true,
+    "shape": "wide",
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "janua-sk05-basic",
-    "variants": true,
-    "mood": "/assets/janua-basic-mood.png",
-    "moodPos": "50% 50%",
-    "brand": "janua",
     "name": "SK 05 Basic",
+    "brand": "janua",
     "designer": "Stefan Knopp",
     "category": "Tables",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/janua-basic-1w.png",
-      "/assets/janua-basic-detail-mood2.png"
-    ],
-    "ar": "4 / 3",
-    "shape": "wide",
+    "availability": "Made to order",
     "desc": "A solid-wood table whose 4 cm top is assembled from multiple planks, so it can be made to almost any size. Supplied with a steel panel frame as standard.",
     "dims": "Made to measure · Top 4 cm thick",
     "materials": "Solid wood planks · Steel panel frame (X, trapezium, T or U frames on request)",
     "colors": "Natural edge, chainsaw texture and branding optional",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/janua-basic-1w.png",
+      "/assets/janua-basic-detail-mood2.png"
+    ],
+    "mood": "/assets/janua-basic-mood.png",
+    "ar": "4 / 3",
+    "variants": true,
+    "shape": "wide",
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-tango",
-    "variants": true,
-    "mood": "/assets/horm-tango-mood2.png",
-    "moodPos": "50% 60%",
-    "brand": "horm",
     "name": "Tango Extendable",
+    "brand": "horm",
     "designer": "Joe Doucet, Renato Zamberlan",
     "category": "Tables",
     "price": {
       "type": "from",
       "amount": 14350
     },
-    "images": [
-      "/assets/horm-tango-1c.png",
-      "/assets/horm-tango-2w.png",
-      "/assets/horm-tango-3w.png"
-    ],
-    "ar": "1 / 1",
+    "availability": "In production",
     "desc": "An extendable dining table with tapered solid-wood legs and a Fenix top. Two leaves add 40–50 cm each and store in a tray under the top.",
     "dims": "W 80/90/100 · L 125–210 (extended 205–310) · H 74 cm",
     "materials": "Fenix top · Solid wood legs · Aluminium slides",
     "colors": "Black, white or steel top · Walnut, oak or ash legs",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In production",
+    "images": [
+      "/assets/horm-tango-1c.png",
+      "/assets/horm-tango-2w.png",
+      "/assets/horm-tango-3w.png"
+    ],
+    "mood": "/assets/horm-tango-mood2.png",
     "pdf": "/assets/horm-tango-spec.pdf",
-    "video": "https://horm.it/qrcodevideo/tangovideo.php"
+    "video": "https://horm.it/qrcodevideo/tangovideo.php",
+    "ar": "1 / 1",
+    "variants": true,
+    "moodPos": "50% 60%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-network",
-    "mood": "/assets/horm-network-mood.jpg",
-    "brand": "horm",
     "name": "Network",
+    "brand": "horm",
     "designer": "Neuland Paster & Geldmacher",
     "category": "Storage & shelving",
     "price": {
       "type": "from",
       "amount": 11900
     },
-    "variants": true,
-    "gallery": [
-      "/assets/horm-network-bronze.png",
-      "/assets/horm-network-double.png",
-      "/assets/horm-network-anthracite.png",
-      "/assets/horm-network-books.png"
-    ],
-    "images": [
-      "/assets/horm-network-bronze.png",
-      "/assets/horm-network-double.png",
-      "/assets/horm-network-anthracite.png",
-      "/assets/horm-network-books.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "In production",
     "desc": "A light, modular bookcase with floating leatherette panels that move along the metal frame, so shelves and layout can be reconfigured at any time.",
     "dims": "W 98 · D 28 · H 192 cm",
     "materials": "Painted metal · Leatherette shelves, up to 15",
     "colors": "Bronze or anthracite",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In production",
+    "images": [
+      "/assets/horm-network-bronze.png",
+      "/assets/horm-network-double.png",
+      "/assets/horm-network-anthracite.png",
+      "/assets/horm-network-books.png"
+    ],
+    "gallery": [
+      "/assets/horm-network-bronze.png",
+      "/assets/horm-network-double.png",
+      "/assets/horm-network-anthracite.png",
+      "/assets/horm-network-books.png"
+    ],
+    "mood": "/assets/horm-network-mood.jpg",
     "pdf": "https://www.yumpu.com/en/document/read/65286230/campionario-network-en/1",
-    "video": "https://horm.it/qrcodevideo/networkreel.php"
+    "video": "https://horm.it/qrcodevideo/networkreel.php",
+    "ar": "4 / 5",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-carlos",
-    "variants": true,
-    "mood": "/assets/horm-carlos-mood.jpg",
-    "brand": "horm",
     "name": "Carlos",
+    "brand": "horm",
     "designer": "Renato Zamberlan",
     "category": "Storage & shelving",
     "price": {
       "type": "from",
       "amount": 23000
     },
-    "gallery": [
-      "/assets/horm-carlos-front-dark.png",
-      "/assets/horm-carlos-white.png",
-      "/assets/horm-carlos-front-long.png"
-    ],
-    "images": [
-      "/assets/horm-carlos-front-dark.png",
-      "/assets/horm-carlos-white.png",
-      "/assets/horm-carlos-front-long.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "In production",
     "desc": "Inspired by the Op Art of Carlos Cruz-Diez. Its colour shifts with your viewpoint, opening and closing like a curtain as you move.",
     "dims": "W 144/192/240 · D 49 · H 66/98 cm",
     "materials": "Lacquered body · Oak veneer doors · Glass shelves · Optional iron base",
     "colors": "White or mocha body · Oak doors · White or black base",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In production",
+    "images": [
+      "/assets/horm-carlos-front-dark.png",
+      "/assets/horm-carlos-white.png",
+      "/assets/horm-carlos-front-long.png"
+    ],
+    "gallery": [
+      "/assets/horm-carlos-front-dark.png",
+      "/assets/horm-carlos-white.png",
+      "/assets/horm-carlos-front-long.png"
+    ],
+    "mood": "/assets/horm-carlos-mood.jpg",
     "pdf": "https://www.yumpu.com/en/document/read/65795745/carlos-en/1",
-    "video": "https://horm.it/qrcodevideo/carlosvideo.php"
+    "video": "https://horm.it/qrcodevideo/carlosvideo.php",
+    "ar": "4 / 5",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cd079",
-    "mood": "/assets/yk/cd079-cover-beige.jpg",
-    "moodPos": "50% 50%",
-    "gallery": [
-      "/assets/yk/cd079.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "CD 079",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1690
     },
-    "images": [
-      "/assets/yk/cd079.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A dining chair in hand-woven rattan on a metal sled base.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/cd079.png"
+    ],
+    "gallery": [
+      "/assets/yk/cd079.png"
+    ],
+    "mood": "/assets/yk/cd079-cover-beige.jpg",
+    "ar": "4 / 5",
+    "variants": false,
+    "fit": "cover",
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cl081",
-    "mood": "/assets/yk/cl081-cover.jpg",
-    "moodPos": "50% 50%",
-    "gallery": [
-      "/assets/yk/cl081.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "CL 081",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 3900
     },
-    "images": [
-      "/assets/yk/cl081.png"
-    ],
-    "ar": "3 / 2",
+    "availability": "Made to order",
     "desc": "A low armchair with a broad, rounded rattan back on a slender metal frame.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/cl081.png"
+    ],
+    "gallery": [
+      "/assets/yk/cl081.png"
+    ],
+    "mood": "/assets/yk/cl081-cover.jpg",
+    "ar": "3 / 2",
+    "variants": false,
+    "fit": "cover",
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-bs603",
-    "fit": "cover",
-    "variants": true,
-    "mood": "/assets/yamakawa-c603-mood.jpg",
-    "moodPos": "50% 70%",
-    "brand": "yamakawa",
     "name": "C 603 Bar Stool",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Bar stools",
     "price": {
       "type": "fixed",
       "amount": 1690
     },
-    "images": [
-      "/assets/yk/bs603-black.png",
-      "/assets/yk/bs603-natural.png"
-    ],
-    "ar": "3 / 2",
+    "availability": "Made to order",
     "desc": "The bar-stool version of the C 607 shell, hand-woven in natural or black rattan on a black metal frame.",
     "dims": "W 53 · D 50 · H 103 cm · Seat H 75",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Black, natural",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/bs603-black.png",
+      "/assets/yk/bs603-natural.png"
+    ],
+    "mood": "/assets/yamakawa-c603-mood.jpg",
+    "ar": "3 / 2",
+    "variants": true,
+    "fit": "cover",
+    "moodPos": "50% 70%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-bar-stool",
-    "mood": "/assets/gaga-barstool-mood.webp",
-    "moodPos": "50% 100%",
-    "brand": "gaga",
     "name": "Bar Stool",
+    "brand": "gaga",
     "designer": "Neil Nenner",
     "category": "Bar stools",
     "price": {
       "type": "fixed",
       "amount": 690
     },
-    "variants": true,
-    "images": [
-      "/assets/gaga-barstool-front.png",
-      "/assets/gaga-barstool-rear.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A compact, stackable bar stool with a hand-woven seat.",
     "dims": "W 45 · D 46 · H 74/84 cm · Seat H 65/75",
     "materials": "Steel · Hand-woven cord",
     "use": "Indoor / Outdoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-barstool-front.png",
+      "/assets/gaga-barstool-rear.png"
+    ],
+    "mood": "/assets/gaga-barstool-mood.webp",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 100%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-ozy",
-    "variants": true,
-    "mood": "/assets/gaga-ozy-bar-mood.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 55%",
-    "brand": "gaga",
     "name": "Ozy Bar Stool",
+    "brand": "gaga",
     "designer": "Yaacov Kaufman",
     "category": "Bar stools",
     "price": {
       "type": "fixed",
       "amount": 1790
     },
-    "ar": "4 / 5",
+    "availability": "Made to order",
+    "desc": "A slender bar stool hand-woven over a fine steel frame, in a range of colourways.",
+    "dims": "W 38 · D 38 · H 90 cm · Seat H 65/75",
+    "materials": "Steel · Hand-woven cord",
+    "colors": "Black, white-beige, natural",
+    "use": "Indoor / Outdoor",
+    "stackable": false,
     "images": [
       "/assets/gaga-ozy-black-trim.png",
       "/assets/gaga-ozy-black-rear-trim.png",
@@ -687,46 +745,57 @@
       "/assets/gaga-ozy-white-front-trim.png",
       "/assets/gaga-ozy-white-rear-trim.png"
     ],
-    "desc": "A slender bar stool hand-woven over a fine steel frame, in a range of colourways.",
-    "dims": "W 38 · D 38 · H 90 cm · Seat H 65/75",
-    "materials": "Steel · Hand-woven cord",
-    "colors": "Black, white-beige, natural",
-    "use": "Indoor / Outdoor",
-    "stackable": false,
-    "availability": "Made to order"
+    "mood": "/assets/gaga-ozy-bar-mood.jpg",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 55%",
+    "moodAr": "16 / 10",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-zigi-dining",
-    "variants": true,
-    "brand": "gaga",
     "name": "COD Dining Chair",
+    "brand": "gaga",
     "designer": "Rami Tareef",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
-    "ar": "4 / 5",
+    "availability": "Made to order",
+    "desc": "The dining chair of the COD collection. A tubular steel frame hand-woven with a synthetic sleeve; the pentagonal back follows the geometry of the weave.",
+    "dims": "W 70 · D 42 · H 80 cm · Seat H 46",
+    "materials": "Steel · Hand-woven synthetic cord",
+    "colors": "Brown, natural",
+    "use": "Indoor / Outdoor",
+    "stackable": false,
     "images": [
       "/assets/gaga-zigi-dining-brown-sm.png",
       "/assets/gaga-zigi-dining-beige-sm.png"
     ],
-    "desc": "The dining chair of the COD collection. A tubular steel frame hand-woven with a synthetic sleeve; the pentagonal back follows the geometry of the weave.",
-    "colors": "Brown, natural",
-    "dims": "W 70 · D 42 · H 80 cm · Seat H 46",
-    "materials": "Steel · Hand-woven synthetic cord",
-    "use": "Indoor / Outdoor",
-    "stackable": false,
-    "availability": "Made to order"
+    "ar": "4 / 5",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-cod",
-    "brand": "gaga",
     "name": "COD Lounge Chair",
+    "brand": "gaga",
     "designer": "Rami Tareef",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
+    "availability": "Made to order",
+    "desc": "A lounge chair and dining chair built from tubular steel woven with a synthetic sleeve. A traditional weaving technique, deconstructed to link structure and continuous weave.",
+    "dims": "W 85 · D 57 · H 86 cm · Seat H 39",
+    "materials": "Steel · Hand-woven synthetic cord",
+    "colors": "Grey, black, blue",
+    "use": "Indoor",
+    "stackable": false,
     "images": [
       "/assets/gaga-cod-three.png",
       "/assets/gaga-cod-front.png",
@@ -735,148 +804,161 @@
       "/assets/gaga-cod-blue.png"
     ],
     "ar": "4 / 5",
-    "colors": "Grey, black, blue",
-    "desc": "A lounge chair and dining chair built from tubular steel woven with a synthetic sleeve. A traditional weaving technique, deconstructed to link structure and continuous weave.",
-    "dims": "W 85 · D 57 · H 86 cm · Seat H 39",
-    "materials": "Steel · Hand-woven synthetic cord",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "Made to order"
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-2-rings",
-    "ixPicks": [
-      "/assets/gaga-yk10-flip.png",
-      "/assets/gaga-2-rings-green.png"
-    ],
-    "variants": true,
-    "mood": "/assets/gaga-2rings-mood4.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 70%",
-    "brand": "gaga",
     "name": "2 Rings",
+    "brand": "gaga",
     "designer": "Yaacov Kaufman",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1650
     },
+    "availability": "Made to order",
+    "desc": "A stackable easy chair, its seat and back hand-woven into a dense web of colour.",
+    "dims": "W 70 · D 66 · H 93 cm · Seat H 44",
+    "materials": "Steel · Hand-woven cord",
+    "colors": "Red, black, grey, white, yellow, green, blue",
+    "use": "Indoor",
+    "stackable": true,
     "images": [
       "/assets/gaga-yk10-flip.png",
       "/assets/gaga-2-rings-green.png"
     ],
+    "mood": "/assets/gaga-2rings-mood4.jpg",
     "ar": "4 / 5",
-    "colors": "Red, black, grey, white, yellow, green, blue",
-    "desc": "A stackable easy chair, its seat and back hand-woven into a dense web of colour.",
-    "dims": "W 70 · D 66 · H 93 cm · Seat H 44",
-    "materials": "Steel · Hand-woven cord",
-    "use": "Indoor",
-    "stackable": true,
-    "availability": "Made to order"
+    "variants": true,
+    "moodPos": "50% 70%",
+    "moodAr": "16 / 10",
+    "ixPicks": [
+      "/assets/gaga-yk10-flip.png",
+      "/assets/gaga-2-rings-green.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-no5",
-    "mood": "/assets/gaga-no5-mood.jpg",
-    "moodPos": "50% 40%",
-    "brand": "gaga",
     "name": "No 5",
+    "brand": "gaga",
     "designer": "Neil Nenner",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1390
     },
-    "variants": true,
+    "availability": "Made to order",
+    "desc": "A full-backed dining chair, hand-woven over a steel frame into a dense web of colour.",
+    "dims": "W 41 · D 52 · H 88 cm",
+    "materials": "Steel · Hand-woven cord",
+    "colors": "Natural, grey check",
+    "use": "Indoor",
+    "stackable": false,
     "images": [
       "/assets/gaga-no5-natural.png",
       "/assets/gaga-no5-plaid.png"
     ],
+    "mood": "/assets/gaga-no5-mood.jpg",
     "ar": "4 / 5",
-    "colors": "Natural, grey check",
-    "desc": "A full-backed dining chair, hand-woven over a steel frame into a dense web of colour.",
-    "dims": "W 41 · D 52 · H 88 cm",
-    "materials": "Steel · Hand-woven cord",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "Made to order"
+    "variants": true,
+    "moodPos": "50% 40%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-spot-stool",
-    "mood": "/assets/gaga-spot-mood.webp",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 45%",
-    "brand": "gaga",
     "name": "Spot Stool",
+    "brand": "gaga",
     "designer": "Neil Nenner",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1690
     },
-    "images": [
-      "/assets/gaga-spot-stool.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A low, stackable stool from the Spot family.",
     "dims": "H 42 cm · Seat Ø 26",
     "materials": "Steel · Hand-woven cord",
     "use": "Indoor / Outdoor",
     "stackable": true,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-spot-stool.png"
+    ],
+    "mood": "/assets/gaga-spot-mood.webp",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 45%",
+    "moodAr": "16 / 10",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-low-back",
-    "mood": "/assets/gaga-2rings-mood2.webp",
-    "moodPos": "50% 50%",
-    "brand": "gaga",
     "name": "Low Back Easy Chair",
+    "brand": "gaga",
     "designer": "Yaacov Kaufman",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 3800
     },
-    "images": [
-      "/assets/gaga-yk08.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "An easy armchair after the classic tractor seat. Each colourway has its own mix of colours, giving the weave warmth and an upholstered feel.",
     "dims": "W 67 · D 66 · H 77 cm · Seat H 42",
     "materials": "Powder-coated steel · Woven synthetic cord",
     "use": "Indoor / Outdoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-yk08.png"
+    ],
+    "mood": "/assets/gaga-2rings-mood2.webp",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "gaga-double-d",
-    "mood": "/assets/gaga-double-d-low-mood.avif",
-    "moodPos": "50% 40%",
-    "brand": "gaga",
     "name": "Double D Chair",
+    "brand": "gaga",
     "designer": "Yaacov Kaufman",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1690
     },
-    "images": [
-      "/assets/gaga-double-d-chair.png"
-    ],
-    "ar": "4 / 5",
-    "colors": "Red, black, pink, white, yellow, green, blue",
+    "availability": "Made to order",
     "desc": "The stackable dining chair of the Double D family, hand-woven on a fine steel frame.",
     "dims": "W 51 · D 54 · H 82 cm · Seat H 44",
     "materials": "Steel · Hand-woven cord",
+    "colors": "Red, black, pink, white, yellow, green, blue",
     "use": "Indoor / Outdoor",
     "stackable": true,
-    "availability": "Made to order"
+    "images": [
+      "/assets/gaga-double-d-chair.png"
+    ],
+    "mood": "/assets/gaga-double-d-low-mood.avif",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 40%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-dennis",
-    "mood": "/assets/koozo-dennis-mood.jpg",
-    "moodPos": "50% 58%",
-    "brand": "koozo",
     "name": "Dennis",
+    "brand": "koozo",
     "designer": "Matthias Demacker",
     "category": "Sofas",
     "price": {
@@ -884,26 +966,30 @@
       "amount": 10900,
       "max": 27100
     },
-    "images": [
-      "/assets/koozo-dennis-sofa.png",
-      "/assets/koozo-dennis-loveseat.png"
-    ],
-    "ar": "5 / 4",
+    "availability": "Made to order",
     "desc": "A sofa offered in several sizes, fabrics, colours and seat options. Shown at 250 cm.",
     "dims": "Modular · W 100–244 cm · D 98 · H 71 cm · Seat H 45 · Shown: L 250 cm",
     "materials": "Upholstered · Chrome or oiled oak legs",
     "colors": "Many fabrics and seat options",
     "use": "Indoor",
     "stackable": false,
+    "images": [
+      "/assets/koozo-dennis-sofa.png",
+      "/assets/koozo-dennis-loveseat.png"
+    ],
+    "mood": "/assets/koozo-dennis-mood.jpg",
     "pdf": "/assets/koozo-dennis-spec.pdf",
-    "availability": "Made to order"
+    "ar": "5 / 4",
+    "variants": false,
+    "moodPos": "50% 58%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-kylie",
-    "mood": "/assets/koozo-kylie-mood.jpg",
-    "moodPos": "50% 58%",
-    "brand": "koozo",
     "name": "Kylie",
+    "brand": "koozo",
     "designer": "Stefan Schöning",
     "category": "Sofas",
     "price": {
@@ -911,108 +997,128 @@
       "amount": 10900,
       "max": 26900
     },
-    "images": [
-      "/assets/koozo-kylie-chaise.png",
-      "/assets/koozo-kylie-loveseat.png"
-    ],
-    "ar": "5 / 4",
+    "availability": "Made to order",
     "desc": "A timeless sofa that pairs straight lines with a light, organic fullness. Minimal in form, generous in comfort.",
     "dims": "Several sizes, with or without chaise · Shown: L 312 cm",
     "materials": "Aluminium · Upholstered",
     "colors": "Many fabrics and leathers",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/koozo-kylie-chaise.png",
+      "/assets/koozo-kylie-loveseat.png"
+    ],
+    "mood": "/assets/koozo-kylie-mood.jpg",
+    "ar": "5 / 4",
+    "variants": false,
+    "moodPos": "50% 58%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-110",
-    "mood": "/assets/koozo-110-mood.jpg",
-    "brand": "koozo",
     "name": "110",
+    "brand": "koozo",
+    "designer": "R&D KOOZO",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 4900
     },
-    "images": [
-      "/assets/koozo-110-grey.png",
-      "/assets/koozo-110-green.png"
-    ],
-    "ar": "5 / 4",
-    "pdf": "/assets/koozo-robin-junior-spec.pdf",
-    "designer": "R&D KOOZO",
+    "availability": "Made to order",
     "desc": "A low, armless lounge chair from the Robin Junior family, sharing its construction and specification.",
     "dims": "W 74 · D 76 · H 90 cm · Seat H 40",
     "materials": "Upholstered, as Robin Junior",
     "colors": "Many fabrics and leathers",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/koozo-110-grey.png",
+      "/assets/koozo-110-green.png"
+    ],
+    "mood": "/assets/koozo-110-mood.jpg",
+    "pdf": "/assets/koozo-robin-junior-spec.pdf",
+    "ar": "5 / 4",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-ryan",
-    "mood": "/assets/koozo-ryan-mood.png",
-    "moodPos": "50% 56%",
-    "brand": "koozo",
     "name": "Ryan",
-    "designer": "",
+    "brand": "koozo",
     "category": "Sofas",
     "price": {
       "type": "from",
       "amount": 9900,
       "max": 26850
     },
-    "images": [
-      "/assets/koozo-ryan-sofa.png",
-      "/assets/koozo-ryan-loveseat.png",
-      "/assets/koozo-ryan-corner.png"
-    ],
-    "ar": "5 / 4",
+    "availability": "Made to order",
     "desc": "A sofa offered in several sizes, fabrics, colours and seat options. Shown at 233 cm.",
     "dims": "Several sizes · Shown: L 233 cm",
     "colors": "Many fabrics and seat options",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/koozo-ryan-sofa.png",
+      "/assets/koozo-ryan-loveseat.png",
+      "/assets/koozo-ryan-corner.png"
+    ],
+    "mood": "/assets/koozo-ryan-mood.png",
+    "ar": "5 / 4",
+    "variants": false,
+    "moodPos": "50% 56%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-robin-sofa",
-    "mood": "/assets/koozo-robin-mood.jpg",
-    "brand": "koozo",
     "name": "Robin",
+    "brand": "koozo",
     "designer": "R&D KOOZO",
     "category": "Sofas",
     "price": {
       "type": "request"
     },
-    "variants": true,
-    "images": [
-      "/assets/koozo-robin-chaise.jpg",
-      "/assets/koozo-dennis.jpg"
-    ],
-    "ar": "5 / 4",
+    "availability": "Made to order",
     "desc": "A Robin sofa with chaise longue, upholstered to order.",
     "dims": "Modular · W 210–257 cm · D 113 · H 68 cm · Seat H 38",
     "materials": "Upholstered · Black feet",
     "colors": "Many fabrics and leathers",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order",
-    "pdf": "/assets/koozo-robin-spec.pdf"
+    "images": [
+      "/assets/koozo-robin-chaise.jpg",
+      "/assets/koozo-dennis.jpg"
+    ],
+    "mood": "/assets/koozo-robin-mood.jpg",
+    "pdf": "/assets/koozo-robin-spec.pdf",
+    "ar": "5 / 4",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "koozo-footstool",
-    "variants": true,
-    "mood": "/assets/koozo-footstool-mood.jpg",
-    "moodPos": "50% 90%",
-    "brand": "koozo",
     "name": "Footstool",
+    "brand": "koozo",
     "designer": "Louis de Limburg",
     "category": "Accessories",
     "price": {
       "type": "fixed",
       "amount": 1190
     },
+    "availability": "Made to order",
+    "desc": "Handy, a small L-shaped pouffe inspired by an open book. Fits any corner and works as a bench or footstool.",
+    "dims": "L-shaped · W 42 · D 42 · H 44 or 49 cm",
+    "materials": "Upholstered",
+    "colors": "Many fabrics and leathers",
+    "use": "Indoor",
+    "stackable": false,
     "images": [
       "/assets/koozo-footstool-pad.png",
       "/assets/koozo-footstool-side.png",
@@ -1020,208 +1126,246 @@
       "/assets/koozo-footstool-green.png",
       "/assets/koozo-footstool-white.png"
     ],
+    "mood": "/assets/koozo-footstool-mood.jpg",
+    "pdf": "/assets/koozo-footstool-spec.pdf",
     "ar": "4 / 3",
-    "desc": "Handy, a small L-shaped pouffe inspired by an open book. Fits any corner and works as a bench or footstool.",
-    "dims": "L-shaped · W 42 · D 42 · H 44 or 49 cm",
-    "materials": "Upholstered",
-    "colors": "Many fabrics and leathers",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "Made to order",
-    "pdf": "/assets/koozo-footstool-spec.pdf"
+    "variants": true,
+    "moodPos": "50% 90%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-twist",
-    "variants": true,
-    "mood": "/assets/horm-twist-mood.jpg",
-    "moodPos": "50% 70%",
-    "brand": "horm",
     "name": "Twist",
+    "brand": "horm",
     "designer": "Burtscher & Bertolini",
     "category": "Accessories",
     "price": {
       "type": "fixed",
       "amount": 1950
     },
-    "gallery": [
-      "/assets/horm-twist-blond.png",
-      "/assets/horm-twist-mocha.png",
-      "/assets/horm-twist-natural.png",
-      "/assets/horm-twist-tricolor.png"
-    ],
-    "images": [
-      "/assets/horm-twist-blond.png",
-      "/assets/horm-twist-mocha.png",
-      "/assets/horm-twist-natural.png",
-      "/assets/horm-twist-tricolor.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "In production",
     "desc": "A coat stand of eight curved beech slats that bend and twist, their tension giving it form and stability. Hooks sit between the slats; the top opens as a “wood flower”.",
     "dims": "Ø 60 · H 167 cm",
     "materials": "Stained beech · Steel and fibreglass base · Chrome hooks",
     "colors": "Natural, whitened, bois blond, mocha · Tricolour, multicolour",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In production"
+    "images": [
+      "/assets/horm-twist-blond.png",
+      "/assets/horm-twist-mocha.png",
+      "/assets/horm-twist-natural.png",
+      "/assets/horm-twist-tricolor.png"
+    ],
+    "gallery": [
+      "/assets/horm-twist-blond.png",
+      "/assets/horm-twist-mocha.png",
+      "/assets/horm-twist-natural.png",
+      "/assets/horm-twist-tricolor.png"
+    ],
+    "mood": "/assets/horm-twist-mood.jpg",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 70%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-bifronte",
-    "variants": true,
-    "mood": "/assets/horm-bifronte-mood.webp",
-    "brand": "horm",
     "name": "Bifronte",
+    "brand": "horm",
     "designer": "StH",
     "category": "Tables",
     "price": {
       "type": "from",
       "amount": 3900
     },
-    "gallery": [
-      "/assets/bif/v2/angle.png",
-      "/assets/bif/v2/front.png"
-    ],
-    "images": [
-      "/assets/bif/v2/angle.png",
-      "/assets/bif/v2/front.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "In production",
     "desc": "A side table extending Toyo Ito’s Ripples bench, winner of the 2004 Compasso d’Oro. A section of the bench is held in an arch of extra-clear glass, so the wood appears to float.",
     "dims": "W 52 · D 37 · H 46 cm",
     "materials": "Curved glass · Solid wood shelf",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In production",
-    "pdf": "/assets/horm-bifronte-spec.pdf"
+    "images": [
+      "/assets/bif/v2/angle.png",
+      "/assets/bif/v2/front.png"
+    ],
+    "gallery": [
+      "/assets/bif/v2/angle.png",
+      "/assets/bif/v2/front.png"
+    ],
+    "mood": "/assets/horm-bifronte-mood.webp",
+    "pdf": "/assets/horm-bifronte-spec.pdf",
+    "ar": "4 / 5",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-albino-torcia",
-    "variants": true,
-    "mood": "/assets/horm-albino-mood-169.jpg",
-    "brand": "horm",
     "name": "Albino Torcia",
+    "brand": "horm",
     "designer": "Salvatore Indriolo",
     "category": "Tables",
     "price": {
       "type": "fixed",
       "amount": 3400
     },
-    "gallery": [
-      "/assets/horm-albino-white-v3.png",
-      "/assets/horm-albino-whitewalnut-v3.png",
-      "/assets/horm-albino-blackwalnut-v3.png",
-      "/assets/horm-albino-black-v3.png"
-    ],
-    "images": [
-      "/assets/horm-albino-white-v3.png",
-      "/assets/horm-albino-whitewalnut-v3.png",
-      "/assets/horm-albino-blackwalnut-v3.png",
-      "/assets/horm-albino-black-v3.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "In production",
     "desc": "A homage to Franco Albini’s 1952 Cicognino. Three metal legs carry a removable wooden tray; one rises above it to hold a magnetic LED torch, mains or battery powered.",
     "dims": "Ø 43 · H 90 cm",
     "materials": "Powder-coated metal · MDF or walnut tray · LED torch",
     "colors": "White or black · Walnut tray option",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In production",
-    "video": "https://horm.it/qrcodevideo/albino-torciareel.php"
+    "images": [
+      "/assets/horm-albino-white-v3.png",
+      "/assets/horm-albino-whitewalnut-v3.png",
+      "/assets/horm-albino-blackwalnut-v3.png",
+      "/assets/horm-albino-black-v3.png"
+    ],
+    "gallery": [
+      "/assets/horm-albino-white-v3.png",
+      "/assets/horm-albino-whitewalnut-v3.png",
+      "/assets/horm-albino-blackwalnut-v3.png",
+      "/assets/horm-albino-black-v3.png"
+    ],
+    "mood": "/assets/horm-albino-mood-169.jpg",
+    "video": "https://horm.it/qrcodevideo/albino-torciareel.php",
+    "ar": "4 / 5",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "mocoba-classic-3x3",
-    "variants": true,
-    "brand": "mocoba",
     "name": "Classic",
+    "brand": "mocoba",
     "designer": "Klaus Kiefer",
     "category": "Storage & shelving",
-    "mood": "/assets/mocoba-classic-mood.jpg",
-    "moodPos": "50% 100%",
     "price": {
       "type": "request"
     },
-    "gallery": [
-      "/assets/mocoba-classic-3x3.png",
-      "/assets/mocoba-classic-5x2.png"
-    ],
-    "images": [
-      "/assets/mocoba-classic-3x3.png",
-      "/assets/mocoba-classic-5x2.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A modular shelf of open compartments that assembles without tools. Shown as 3 x 3 and 5 x 2; other configurations can be planned to size, with price given after a planning meeting.",
     "dims": "3 x 3: W 159.5 · D 32 · H 112 cm · 5 x 2: W 177 · D 32 · H 77 cm",
     "materials": "Melamine-coated MDF, pure white (RAL 9010) · Natural MDF edges · Steel pins",
     "colors": "Pure white",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/mocoba-classic-3x3.png",
+      "/assets/mocoba-classic-5x2.png"
+    ],
+    "gallery": [
+      "/assets/mocoba-classic-3x3.png",
+      "/assets/mocoba-classic-5x2.png"
+    ],
+    "mood": "/assets/mocoba-classic-mood.jpg",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 100%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "magenta-bitton",
-    "variants": true,
-    "mood": "/assets/magenta-bitton-mood.avif",
-    "moodPos": "50% 100%",
-    "brand": "magenta",
     "name": "Bitton",
+    "brand": "magenta",
     "designer": "Ronen Bavli · Magenta",
     "category": "Tables",
     "price": {
       "type": "from",
       "amount": 2700
     },
-    "gallery": [
-      "/assets/magenta-bitton-a.png",
-      "/assets/magenta-bitton-b.png"
-    ],
-    "images": [
-      "/assets/magenta-bitton-a.png",
-      "/assets/magenta-bitton-b.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A one-of-a-kind coffee and side table with a pigmented concrete top on a stainless-steel frame, suitable for indoor and outdoor use. Each piece is made in the studio, and the tables look best as a set of different heights.",
     "dims": "Round · Ø 50, 60 or 70 cm · Oval option",
     "materials": "Concrete · Stainless steel",
     "colors": "Each piece unique in tone and pigment",
     "use": "Indoor / Outdoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/magenta-bitton-a.png",
+      "/assets/magenta-bitton-b.png"
+    ],
+    "gallery": [
+      "/assets/magenta-bitton-a.png",
+      "/assets/magenta-bitton-b.png"
+    ],
+    "mood": "/assets/magenta-bitton-mood.avif",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 100%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-tahiti",
-    "mood": "/assets/horm-tahiti-mood.webp",
-    "brand": "horm",
     "name": "Tahiti",
+    "brand": "horm",
     "designer": "Renato Zamberlan",
     "category": "Beds",
     "price": {
       "type": "from",
       "amount": 13700
     },
-    "images": [
-      "/assets/horm-tahiti.png"
-    ],
-    "ar": "4 / 3",
+    "availability": "Made to order",
     "desc": "An upholstered bed with a fully removable fabric or faux-leather cover, with tone-on-tone or contrast stitching.",
     "dims": "Mattress 140–200 × 200 cm",
     "materials": "Upholstered · Removable cover · Slatted base",
     "colors": "Many fabrics and faux leathers · 16 stitching colours",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order",
-    "pdf": "/assets/horm-tahiti-spec.pdf"
+    "images": [
+      "/assets/horm-tahiti.png"
+    ],
+    "mood": "/assets/horm-tahiti-mood.webp",
+    "pdf": "/assets/horm-tahiti-spec.pdf",
+    "ar": "4 / 3",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-cherish",
-    "variants": true,
-    "mood": "/assets/horm-cherish-mood.webp",
-    "brand": "horm",
     "name": "Cherish",
+    "brand": "horm",
     "designer": "Horm engineering department",
     "category": "Chairs",
     "price": {
       "type": "from",
       "amount": 1270
     },
+    "availability": "In production",
+    "desc": "A comfortable, durable chair suited to public and domestic spaces alike, its proportions refined by Horm’s engineering department.",
+    "dims": "W 39 · D 46 · H 80 cm",
+    "materials": "Solid beech · Beech plywood seat",
+    "colors": "7 lacquer colours · 6 beech stains",
+    "use": "Indoor",
+    "stackable": false,
+    "images": [
+      "/assets/horm-cherish-black-v4.png",
+      "/assets/horm-cherish-white-v4.png",
+      "/assets/horm-cherish-dusty-grey-v4.png",
+      "/assets/horm-cherish-beige-v4.png",
+      "/assets/horm-cherish-wine-red-v4.png",
+      "/assets/horm-cherish-brown-v4.png",
+      "/assets/horm-cherish-graphite-v4.png",
+      "/assets/horm-cherish-whitened-beech-v4.png",
+      "/assets/horm-cherish-natural-beech-v4.png",
+      "/assets/horm-cherish-oak-beech-v4.png",
+      "/assets/horm-cherish-mocha-beech-v4.png",
+      "/assets/horm-cherish-black-beech-v4.png",
+      "/assets/horm-cherish-walnut-beech-v4.png"
+    ],
     "gallery": [
       "/assets/horm-cherish-black-v4.png",
       "/assets/horm-cherish-white-v4.png",
@@ -1237,45 +1381,36 @@
       "/assets/horm-cherish-black-beech-v4.png",
       "/assets/horm-cherish-walnut-beech-v4.png"
     ],
-    "images": [
-      "/assets/horm-cherish-black-v4.png",
-      "/assets/horm-cherish-white-v4.png",
-      "/assets/horm-cherish-dusty-grey-v4.png",
-      "/assets/horm-cherish-beige-v4.png",
-      "/assets/horm-cherish-wine-red-v4.png",
-      "/assets/horm-cherish-brown-v4.png",
-      "/assets/horm-cherish-graphite-v4.png",
-      "/assets/horm-cherish-whitened-beech-v4.png",
-      "/assets/horm-cherish-natural-beech-v4.png",
-      "/assets/horm-cherish-oak-beech-v4.png",
-      "/assets/horm-cherish-mocha-beech-v4.png",
-      "/assets/horm-cherish-black-beech-v4.png",
-      "/assets/horm-cherish-walnut-beech-v4.png"
-    ],
+    "mood": "/assets/horm-cherish-mood.webp",
+    "pdf": "/assets/horm-cherish-spec.pdf",
     "ar": "4 / 5",
-    "desc": "A comfortable, durable chair suited to public and domestic spaces alike, its proportions refined by Horm’s engineering department.",
-    "dims": "W 39 · D 46 · H 80 cm",
-    "materials": "Solid beech · Beech plywood seat",
-    "colors": "7 lacquer colours · 6 beech stains",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "In production",
-    "pdf": "/assets/horm-cherish-spec.pdf"
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-vad",
-    "variants": true,
-    "mood": "/assets/horm-vad-wood-mood.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 46%",
-    "brand": "horm",
     "name": "Vad Wood",
+    "brand": "horm",
     "designer": "Luca Nichetto",
     "category": "Chairs",
     "price": {
       "type": "from",
       "amount": 1950
     },
+    "availability": "In production",
+    "desc": "A shell chair inspired by mid-century Scandinavian design. The curved shell is moulded in recyclable polypropylene on solid wood legs.",
+    "dims": "W 61.5 · D 58 · H 81 cm · Seat H 43.5",
+    "materials": "Polypropylene shell · Walnut legs",
+    "colors": "White or black shell · Walnut legs",
+    "use": "Indoor",
+    "stackable": false,
+    "images": [
+      "/assets/horm-vad-white.png",
+      "/assets/horm-vad-black.png",
+      "/assets/horm-vad-black-back.png"
+    ],
     "gallery": [
       "/assets/horm-vad-white.png",
       "/assets/horm-vad-black.png",
@@ -1284,300 +1419,321 @@
       "/assets/horm-vad-oak-2b.jpg",
       "/assets/horm-vad-oak-3b.jpg"
     ],
-    "images": [
-      "/assets/horm-vad-white.png",
-      "/assets/horm-vad-black.png",
-      "/assets/horm-vad-black-back.png"
-    ],
+    "mood": "/assets/horm-vad-wood-mood.jpg",
+    "pdf": "/assets/horm-vad-spec.pdf",
     "ar": "4 / 5",
-    "desc": "A shell chair inspired by mid-century Scandinavian design. The curved shell is moulded in recyclable polypropylene on solid wood legs.",
-    "dims": "W 61.5 · D 58 · H 81 cm · Seat H 43.5",
-    "materials": "Polypropylene shell · Walnut legs",
-    "colors": "White or black shell · Walnut legs",
-    "use": "Indoor",
-    "stackable": false,
-    "availability": "In production",
-    "pdf": "/assets/horm-vad-spec.pdf"
+    "variants": true,
+    "moodPos": "50% 46%",
+    "moodAr": "16 / 10",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-him-her",
-    "mood": "/assets/horm-him-her-mood.jpg",
-    "brand": "horm",
     "name": "Him + Her",
+    "brand": "horm",
     "designer": "Fabio Novembre",
     "category": "Chairs",
     "price": {
       "type": "from",
       "amount": 2460
     },
-    "variants": true,
-    "gallery": [
-      "/assets/horm-himher-g-her.jpeg",
-      "/assets/horm-himher-g-side.jpeg",
-      "/assets/horm-himher-g-him-black-white.png"
-    ],
-    "images": [
-      "/assets/horm-himher-g-her.jpeg",
-      "/assets/horm-himher-g-side.jpeg",
-      "/assets/horm-himher-g-him-black-white.png"
-    ],
-    "ar": "4 / 3",
+    "availability": "In production",
     "desc": "An evolution of the Panton Chair, split into two sexes. The shapes come from 3D scans of two plaster sculptures.",
     "dims": "W 49.5 · D 61.5 · H 87 cm · Seat H 43",
     "materials": "Moulded polyethylene, matt",
     "colors": "White, black, red, green",
     "use": "Indoor / Outdoor",
     "stackable": false,
-    "availability": "In production",
-    "pdf": "https://www.yumpu.com/en/document/read/67425841/him-and-her-en/1"
+    "images": [
+      "/assets/horm-himher-g-her.jpeg",
+      "/assets/horm-himher-g-side.jpeg",
+      "/assets/horm-himher-g-him-black-white.png"
+    ],
+    "gallery": [
+      "/assets/horm-himher-g-her.jpeg",
+      "/assets/horm-himher-g-side.jpeg",
+      "/assets/horm-himher-g-him-black-white.png"
+    ],
+    "mood": "/assets/horm-him-her-mood.jpg",
+    "pdf": "https://www.yumpu.com/en/document/read/67425841/him-and-her-en/1",
+    "ar": "4 / 3",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-leon-wood",
-    "mood": "/assets/horm-leon-wood-mood2.png",
-    "moodPos": "50% 90%",
-    "brand": "horm",
     "name": "Leon Wood",
+    "brand": "horm",
     "designer": "StH",
     "category": "Storage & shelving",
     "price": {
       "type": "from",
       "amount": 10400
     },
-    "variants": true,
-    "gallery": [
-      "/assets/horm-leonwood-1.png",
-      "/assets/horm-leonwood-2.png",
-      "/assets/horm-leonwood-0.png"
-    ],
-    "images": [
-      "/assets/horm-leonwood-1.png",
-      "/assets/horm-leonwood-2.png",
-      "/assets/horm-leonwood-0.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "In production",
     "desc": "The Leon collection rendered entirely in wood. The vertical rhythm of the doors remains, now in a single material that brings out the grain.",
     "dims": "Several widths and heights · D 49 · H 98 cm",
     "materials": "Solid wood",
     "colors": "Black body · Mocha doors",
     "use": "Indoor",
     "stackable": false,
-    "availability": "In production",
+    "images": [
+      "/assets/horm-leonwood-1.png",
+      "/assets/horm-leonwood-2.png",
+      "/assets/horm-leonwood-0.png"
+    ],
+    "gallery": [
+      "/assets/horm-leonwood-1.png",
+      "/assets/horm-leonwood-2.png",
+      "/assets/horm-leonwood-0.png"
+    ],
+    "mood": "/assets/horm-leon-wood-mood2.png",
     "pdf": "https://www.yumpu.com/en/document/read/65187820/leon-en/1",
-    "video": "https://horm.it/qrcodevideo/leonwoodwhitenedreel.php"
+    "video": "https://horm.it/qrcodevideo/leonwoodwhitenedreel.php",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 90%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "horm-le-jardin",
-    "variants": true,
-    "mood": "/assets/horm-le-jardin-mood.jpg",
-    "brand": "horm",
     "name": "Le Jardin",
-    "designer": "",
+    "brand": "horm",
     "category": "Storage & shelving",
     "price": {
       "type": "request"
     },
-    "gallery": [
-      "/assets/lj/v3/lj0.png",
-      "/assets/lj/v3/lj6.png",
-      "/assets/lj/v3/lj3.png",
-      "/assets/lj/v3/lj5.png",
-      "/assets/lj/v3/lj7.png"
-    ],
-    "images": [
-      "/assets/lj/v3/lj0.png",
-      "/assets/lj/v3/lj6.png",
-      "/assets/lj/v3/lj3.png",
-      "/assets/lj/v3/lj5.png",
-      "/assets/lj/v3/lj7.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A sideboard drawn from a childhood memory of a spring garden. Body in glossy or matt lacquer or mocha-tinted beech; canaletto walnut doors with silk-screen decoration.",
     "dims": "2–5 doors · W 96/144/192/240 · D 49 · H 67/99 cm",
     "materials": "Lacquered body · Printed walnut doors · Glass shelves",
     "colors": "Lacquered or mocha body · Walnut doors",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/lj/v3/lj0.png",
+      "/assets/lj/v3/lj6.png",
+      "/assets/lj/v3/lj3.png",
+      "/assets/lj/v3/lj5.png",
+      "/assets/lj/v3/lj7.png"
+    ],
+    "gallery": [
+      "/assets/lj/v3/lj0.png",
+      "/assets/lj/v3/lj6.png",
+      "/assets/lj/v3/lj3.png",
+      "/assets/lj/v3/lj5.png",
+      "/assets/lj/v3/lj7.png"
+    ],
+    "mood": "/assets/horm-le-jardin-mood.jpg",
+    "ar": "4 / 5",
+    "variants": true,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cd080",
-    "mood": "/assets/yk/cd080-cover-beige.jpg",
-    "moodPos": "50% 50%",
-    "moodOld": "/assets/yamakawa-cd080-mood.avif",
-    "gallery": [
-      "/assets/yk/cd080.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "CD 080",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1790
     },
-    "images": [
-      "/assets/yk/cd080.png"
-    ],
-    "ar": "3 / 2",
+    "availability": "Made to order",
     "desc": "A dining chair with sweeping arms, its shell woven in a herringbone rattan pattern on a metal sled base.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/cd080.png"
+    ],
+    "gallery": [
+      "/assets/yk/cd080.png"
+    ],
+    "mood": "/assets/yk/cd080-cover-beige.jpg",
+    "ar": "3 / 2",
+    "variants": false,
+    "fit": "cover",
+    "moodPos": "50% 50%",
+    "moodOld": "/assets/yamakawa-cd080-mood.avif",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cd277",
-    "mood": "/assets/yk/cd277-cover-beige2.jpg",
-    "moodPos": "50% 50%",
-    "gallery": [
-      "/assets/yk/cd277.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "CD 277",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1690
     },
-    "images": [
-      "/assets/yk/cd277.png"
-    ],
-    "ar": "3 / 2",
+    "availability": "Made to order",
     "desc": "A dining chair in hand-woven rattan on a light, cross-braced metal frame.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/cd277.png"
+    ],
+    "gallery": [
+      "/assets/yk/cd277.png"
+    ],
+    "mood": "/assets/yk/cd277-cover-beige2.jpg",
+    "ar": "3 / 2",
+    "variants": false,
+    "fit": "cover",
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cd177",
-    "mood": "/assets/yk/cd177-mood-beige.jpg",
-    "gallery": [
-      "/assets/yk/cd177.png"
-    ],
-    "brand": "yamakawa",
     "name": "CD 177",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1790
     },
-    "images": [
-      "/assets/yk/cd177.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A dining armchair in hand-woven rattan on a cross-braced metal frame.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/cd177.png"
+    ],
+    "gallery": [
+      "/assets/yk/cd177.png"
+    ],
+    "mood": "/assets/yk/cd177-mood-beige.jpg",
+    "ar": "4 / 5",
+    "variants": false,
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cd019",
-    "ixPicks": [
-      "/assets/yk/cd019-norm.png",
-      "/assets/yk/cd019-front-norm.png"
-    ],
-    "mood": "/assets/cd019-mood.webp",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 92%",
-    "gallery": [
-      "/assets/yk/cd019.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "CD 019",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1690
     },
-    "images": [
-      "/assets/yk/cd019.png"
-    ],
-    "ar": "3 / 2",
+    "availability": "Made to order",
     "desc": "A dining armchair with a sweeping, open-weave rattan back on a cross-braced metal frame.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/cd019.png"
+    ],
+    "gallery": [
+      "/assets/yk/cd019.png"
+    ],
+    "mood": "/assets/cd019-mood.webp",
+    "ar": "3 / 2",
+    "variants": false,
+    "fit": "cover",
+    "moodPos": "50% 92%",
+    "moodAr": "16 / 10",
+    "ixPicks": [
+      "/assets/yk/cd019-norm.png",
+      "/assets/yk/cd019-front-norm.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-cd160",
-    "gallery": [
-      "/assets/yk/cd160.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "CD 160",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Chairs",
     "price": {
       "type": "fixed",
       "amount": 1750
     },
-    "images": [
-      "/assets/yk/cd160.png"
-    ],
-    "ar": "3 / 2",
+    "availability": "Made to order",
     "desc": "A dining armchair woven in a herringbone rattan pattern on a fine metal frame.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/cd160.png"
+    ],
+    "gallery": [
+      "/assets/yk/cd160.png"
+    ],
+    "ar": "3 / 2",
+    "variants": false,
+    "fit": "cover",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-bs144",
-    "mood": "/assets/yamakawa-bs144-mood.jpg",
-    "gallery": [
-      "/assets/yk/bs144.png"
-    ],
-    "fit": "cover",
-    "brand": "yamakawa",
     "name": "BS 144",
-    "designer": "",
+    "brand": "yamakawa",
     "category": "Bar stools",
     "price": {
       "type": "fixed",
       "amount": 1900
     },
-    "images": [
-      "/assets/yk/bs144.png"
-    ],
-    "ar": "3 / 2",
+    "availability": "Made to order",
     "desc": "A bar stool with an open-weave rattan back and seat on a sculptural metal frame with footrest.",
     "materials": "Metal · Hand-woven rattan",
     "colors": "Brown, grey, natural · Outdoor: brown, white, grey, black, green",
     "use": "Indoor · Outdoor version",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/yk/bs144.png"
+    ],
+    "gallery": [
+      "/assets/yk/bs144.png"
+    ],
+    "mood": "/assets/yamakawa-bs144-mood.jpg",
+    "ar": "3 / 2",
+    "variants": false,
+    "fit": "cover",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "yamakawa-c607",
-    "variants": true,
-    "mood": "/assets/yamakawa-c607-mood.jpg",
-    "moodPos": "50% 62%",
-    "gallery": [
-      "/assets/yamakawa-c607-front.png",
-      "/assets/yamakawa-c607-charcoal.png"
-    ],
-    "brand": "yamakawa",
     "name": "C 607",
+    "brand": "yamakawa",
     "designer": "Yuzuru Yamakawa",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
+    "availability": "In stock · Else up to 12 weeks",
+    "desc": "A 1964 chair with a sleigh leg and minimal lines. The shell is woven in natural or charcoal rattan on a black frame. Also available as a bar stool (C 603).",
+    "dims": "W 52 · D 53.5 · H 80.5 cm · Seat H 44",
+    "materials": "Black steel · Rattan",
+    "colors": "Natural, charcoal",
+    "use": "Indoor",
+    "stackable": true,
     "images": [
       "/assets/yamakawa-c607-front.png",
       "/assets/yamakawa-c607-angle.png",
@@ -1586,417 +1742,456 @@
       "/assets/yamakawa-c607-back.png",
       "/assets/yamakawa-c607-charcoal.png"
     ],
+    "gallery": [
+      "/assets/yamakawa-c607-front.png",
+      "/assets/yamakawa-c607-charcoal.png"
+    ],
+    "mood": "/assets/yamakawa-c607-mood.jpg",
     "ar": "4 / 5",
-    "desc": "A 1964 chair with a sleigh leg and minimal lines. The shell is woven in natural or charcoal rattan on a black frame. Also available as a bar stool (C 603).",
-    "dims": "W 52 · D 53.5 · H 80.5 cm · Seat H 44",
-    "materials": "Black steel · Rattan",
-    "colors": "Natural, charcoal",
-    "use": "Indoor",
-    "stackable": true,
-    "availability": "In stock · Else up to 12 weeks"
+    "variants": true,
+    "moodPos": "50% 62%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "freifrau-leya-low",
-    "variants": true,
-    "mood": "/assets/freifrau-leya-mood2.webp",
-    "moodAr": "4 / 3",
-    "moodPos": "50% 30%",
-    "ixPicks": [
-      "/assets/freifrau-leya-back-trim.png"
-    ],
-    "gallery": [
-      "/assets/freifrau-leya-front-trim.png",
-      "/assets/freifrau-leya-back-trim.png",
-      "/assets/freifrau-leya-wood-trim.png"
-    ],
-    "brand": "freifrau",
     "name": "Leya Armchair Low",
+    "brand": "freifrau",
     "designer": "Hoffmann Kahleyss Design",
     "category": "Armchairs",
-    "images": [
-      "/assets/freifrau-leya-front-trim.png",
-      "/assets/freifrau-leya-back-trim.png",
-      "/assets/freifrau-leya-wood-trim.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A tautly upholstered shell with a soft cushion inside: clear and linear from the outside, outstandingly comfortable once you sit down. A narrow armchair for the dining or conference table.",
     "dims": "W 55 · D 59 · H 86 cm · Seat H 48",
     "materials": "Upholstered shell · Wire, steel or wooden frame",
     "colors": "Many fabrics and leathers",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/freifrau-leya-front-trim.png",
+      "/assets/freifrau-leya-back-trim.png",
+      "/assets/freifrau-leya-wood-trim.png"
+    ],
+    "gallery": [
+      "/assets/freifrau-leya-front-trim.png",
+      "/assets/freifrau-leya-back-trim.png",
+      "/assets/freifrau-leya-wood-trim.png"
+    ],
+    "mood": "/assets/freifrau-leya-mood2.webp",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 30%",
+    "moodAr": "4 / 3",
+    "ixPicks": [
+      "/assets/freifrau-leya-back-trim.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "freifrau-leya-high",
-    "variants": true,
-    "mood": "/assets/freifrau-leya-high-mood-clean.png",
-    "moodAr": "4 / 3",
-    "moodPos": "50% 80%",
-    "ixPicks": [
-      "/assets/freifrau-leya-high-wire-trim.png"
-    ],
-    "gallery": [
-      "/assets/freifrau-leya-high-wire-trim.png",
-      "/assets/freifrau-leya-high-velvet-trim.png",
-      "/assets/freifrau-leya-high-swivel-trim.png"
-    ],
-    "brand": "freifrau",
     "name": "Leya Armchair High",
+    "brand": "freifrau",
     "designer": "Hoffmann Kahleyss Design",
     "category": "Armchairs",
-    "images": [
-      "/assets/freifrau-leya-high-wire-trim.png",
-      "/assets/freifrau-leya-high-velvet-trim.png",
-      "/assets/freifrau-leya-high-swivel-trim.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A tautly upholstered shell with a soft cushion inside and a higher back: clear and linear from the outside, outstandingly comfortable once you sit down. For the dining or conference table.",
     "dims": "W 58 · D 59 · H 86 cm · Seat H 48",
     "materials": "Upholstered shell · Wire, steel, wooden or swivel frame",
     "colors": "Many fabrics and leathers",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/freifrau-leya-high-wire-trim.png",
+      "/assets/freifrau-leya-high-velvet-trim.png",
+      "/assets/freifrau-leya-high-swivel-trim.png"
+    ],
+    "gallery": [
+      "/assets/freifrau-leya-high-wire-trim.png",
+      "/assets/freifrau-leya-high-velvet-trim.png",
+      "/assets/freifrau-leya-high-swivel-trim.png"
+    ],
+    "mood": "/assets/freifrau-leya-high-mood-clean.png",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 80%",
+    "moodAr": "4 / 3",
+    "ixPicks": [
+      "/assets/freifrau-leya-high-wire-trim.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "freifrau-leya-wingback",
-    "variants": true,
-    "mood": "/assets/freifrau-leya-wingback-cover.png",
-    "moodAr": "4 / 3",
-    "moodPos": "50% 50%",
-    "ixPicks": [
-      "/assets/freifrau-leya-wingback-blue-front.png"
-    ],
-    "gallery": [
-      "/assets/freifrau-leya-wingback-black-front.png",
-      "/assets/freifrau-leya-wingback-black-back.png",
-      "/assets/freifrau-leya-wingback-blue-front.png",
-      "/assets/freifrau-leya-wingback-blue-back.png",
-      "/assets/freifrau-leya-wingback-cognac-front.png",
-      "/assets/freifrau-leya-wingback-cognac-back.png",
-      "/assets/freifrau-leya-wingback-cognac-ottoman.png"
-    ],
-    "brand": "freifrau",
     "name": "Leya Wingback Chair",
+    "brand": "freifrau",
     "designer": "Hoffmann Kahleyss Design",
     "category": "Armchairs",
-    "images": [
-      "/assets/freifrau-leya-wingback-black-front.png",
-      "/assets/freifrau-leya-wingback-black-back.png",
-      "/assets/freifrau-leya-wingback-blue-front.png",
-      "/assets/freifrau-leya-wingback-blue-back.png",
-      "/assets/freifrau-leya-wingback-cognac-front.png",
-      "/assets/freifrau-leya-wingback-cognac-back.png",
-      "/assets/freifrau-leya-wingback-cognac-ottoman.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A wingback chair with a tautly upholstered shell and a soft cushion inside: clear and linear from the outside, enveloping once you sit down. Available on a wire frame, a disc base or a four-star base, with or without a rocking and tilting mechanism.",
     "dims": "W 71 · D 86 · H 103 cm · Seat H 42",
     "materials": "Upholstered shell · Wire frame, disc base or four-star base",
     "colors": "Many fabrics and leathers · Chesterfield available",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order",
-    "ottoman": true
+    "images": [
+      "/assets/freifrau-leya-wingback-black-front.png",
+      "/assets/freifrau-leya-wingback-black-back.png",
+      "/assets/freifrau-leya-wingback-blue-front.png",
+      "/assets/freifrau-leya-wingback-blue-back.png",
+      "/assets/freifrau-leya-wingback-cognac-front.png",
+      "/assets/freifrau-leya-wingback-cognac-back.png",
+      "/assets/freifrau-leya-wingback-cognac-ottoman.png"
+    ],
+    "gallery": [
+      "/assets/freifrau-leya-wingback-black-front.png",
+      "/assets/freifrau-leya-wingback-black-back.png",
+      "/assets/freifrau-leya-wingback-blue-front.png",
+      "/assets/freifrau-leya-wingback-blue-back.png",
+      "/assets/freifrau-leya-wingback-cognac-front.png",
+      "/assets/freifrau-leya-wingback-cognac-back.png",
+      "/assets/freifrau-leya-wingback-cognac-ottoman.png"
+    ],
+    "mood": "/assets/freifrau-leya-wingback-cover.png",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 50%",
+    "moodAr": "4 / 3",
+    "ixPicks": [
+      "/assets/freifrau-leya-wingback-blue-front.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": true,
+    "lift": false
   },
   {
     "id": "freifrau-leya-barstool-low",
-    "variants": true,
-    "mood": "/assets/freifrau-leya-barstool-low-mood.png",
-    "moodAr": "4 / 3",
-    "moodPos": "50% 50%",
-    "ixPicks": [
-      "/assets/freifrau-leya-barstool-low-trim.png"
-    ],
-    "gallery": [
-      "/assets/freifrau-leya-barstool-low-trim.png"
-    ],
-    "brand": "freifrau",
     "name": "Leya Barstool Low",
+    "brand": "freifrau",
     "designer": "Hoffmann Kahleyss Design",
     "category": "Bar stools",
-    "images": [
-      "/assets/freifrau-leya-barstool-low-trim.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "A tautly upholstered shell around a soft inner cushion, with an elegant low back. On a delicately poised wire frame or a height-adjustable swivel column base.",
     "dims": "W 41 · D 47 · H 94 cm · Seat H 82",
     "materials": "Upholstered shell · Wire frame or swivel column",
     "colors": "Many fabrics and leathers",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/freifrau-leya-barstool-low-trim.png"
+    ],
+    "gallery": [
+      "/assets/freifrau-leya-barstool-low-trim.png"
+    ],
+    "mood": "/assets/freifrau-leya-barstool-low-mood.png",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 50%",
+    "moodAr": "4 / 3",
+    "ixPicks": [
+      "/assets/freifrau-leya-barstool-low-trim.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "freifrau-leya-bar-armchair-high",
-    "variants": true,
-    "mood": "/assets/freifrau-leya-bar-armchair-high-mood.png",
-    "moodAr": "4 / 3",
-    "moodPos": "50% 50%",
-    "ixPicks": [
-      "/assets/freifrau-leya-bar-armchair-high-trim.png"
-    ],
-    "gallery": [
-      "/assets/freifrau-leya-bar-armchair-high-trim.png"
-    ],
-    "brand": "freifrau",
     "name": "Leya Bar Armchair High",
+    "brand": "freifrau",
     "designer": "Hoffmann Kahleyss Design",
     "category": "Bar stools",
-    "images": [
-      "/assets/freifrau-leya-bar-armchair-high-trim.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "The Leya shell at bar height, with a high back and armrests: clear and linear from the outside, soft inside. On a rotating central leg with a surrounding footrest.",
     "dims": "W 58 · D 59 · H 120 cm · Seat H 82",
     "materials": "Upholstered shell · Rotating central leg with footrest",
     "colors": "Many fabrics and leathers",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/freifrau-leya-bar-armchair-high-trim.png"
+    ],
+    "gallery": [
+      "/assets/freifrau-leya-bar-armchair-high-trim.png"
+    ],
+    "mood": "/assets/freifrau-leya-bar-armchair-high-mood.png",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 50%",
+    "moodAr": "4 / 3",
+    "ixPicks": [
+      "/assets/freifrau-leya-bar-armchair-high-trim.png"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "cuero-butterfly",
-    "variants": true,
-    "mood": "/assets/cuero-butterfly-mood3.jpg",
-    "moodPos": "50% 78%",
-    "ixPicks": [
-      "/assets/cuero-butterfly-graphite-mood.jpg"
-    ],
-    "ixPhoto": true,
-    "gallery": [
-      "/assets/cuero-butterfly-cognac.png",
-      "/assets/cuero-butterfly-black.png",
-      "/assets/cuero-butterfly-natural.png"
-    ],
-    "brand": "cuero",
     "name": "Butterfly Pampa Mariposa",
+    "brand": "cuero",
     "designer": "Cuero",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 4800
     },
-    "images": [
-      "/assets/cuero-butterfly-cognac.png",
-      "/assets/cuero-butterfly-black.png",
-      "/assets/cuero-butterfly-natural.png"
-    ],
-    "ar": "5 / 4",
+    "availability": "Made to order",
     "desc": "A classic of international design, in fine Italian leather on Swedish steel, made with close attention to quality and sustainability.",
     "dims": "W 87 · D 86 · H 92 cm",
     "materials": "Steel · Removable leather sling",
     "colors": "Cognac, black, natural leather · Black or chrome frame",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/cuero-butterfly-cognac.png",
+      "/assets/cuero-butterfly-black.png",
+      "/assets/cuero-butterfly-natural.png"
+    ],
+    "gallery": [
+      "/assets/cuero-butterfly-cognac.png",
+      "/assets/cuero-butterfly-black.png",
+      "/assets/cuero-butterfly-natural.png"
+    ],
+    "mood": "/assets/cuero-butterfly-mood3.jpg",
+    "ar": "5 / 4",
+    "variants": true,
+    "moodPos": "50% 78%",
+    "ixPicks": [
+      "/assets/cuero-butterfly-graphite-mood.jpg"
+    ],
+    "ixPhoto": true,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "thonet-s411",
-    "lift": true,
-    "ixPicks": [
-      "/assets/thonet-s411-wide-trim.png",
-      "/assets/thonet-s411-green-flip.jpg"
-    ],
-    "mood": "/assets/thonet-s411-mood.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 72%",
-    "brand": "thonet",
     "name": "S 411",
+    "brand": "thonet",
     "designer": "Thonet Design Team, 1932",
     "category": "Armchairs",
     "price": {
       "type": "fixed",
       "amount": 16400
     },
-    "gallery": [
-      "/assets/thonet-s411-modal.png"
-    ],
-    "images": [
-      "/assets/thonet-s411-wide-trim.png",
-      "/assets/thonet-s411-trim.png"
-    ],
-    "ar": "3 / 4",
+    "availability": "Made to order · 4–8 weeks",
     "desc": "A 1932 cantilever armchair on chromed tubular steel, among the first fully upholstered pieces in the Thonet catalogue. Spring-core seat and wooden armrests; matching footstool S 411 H.",
     "dims": "W 63 · D 79 · H 79 cm · Seat H 40",
     "materials": "Chrome steel · Spring-core upholstery · Wooden armrests",
     "colors": "Many leathers and fabrics · Several armrest woods",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order · 4–8 weeks"
+    "images": [
+      "/assets/thonet-s411-wide-trim.png",
+      "/assets/thonet-s411-trim.png"
+    ],
+    "gallery": [
+      "/assets/thonet-s411-modal.png"
+    ],
+    "mood": "/assets/thonet-s411-mood.jpg",
+    "ar": "3 / 4",
+    "variants": false,
+    "moodPos": "50% 72%",
+    "moodAr": "16 / 10",
+    "ixPicks": [
+      "/assets/thonet-s411-wide-trim.png",
+      "/assets/thonet-s411-green-flip.jpg"
+    ],
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": true
   },
   {
     "id": "thonet-118fv",
-    "lift": true,
-    "mood": "/assets/thonet-118fv-mood2.jpg",
-    "moodPos": "50% 30%",
-    "brand": "thonet",
     "name": "118 FV",
+    "brand": "thonet",
     "designer": "Sebastian Herkner, 2018",
     "category": "Armchairs",
-    "gallery": [
-      "/assets/thonet-118fv-trim.png",
-      "/assets/thonet-118pfv-green.png"
-    ],
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/thonet-118fv-trim.png"
-    ],
-    "ar": "3 / 4",
+    "availability": "On request",
     "desc": "The fine-dining armchair of the 118 family, with a larger seat, a wider, more reclined back and bentwood arms. Shown with canework; also with plywood (118 MFV) or upholstery (118 SPFV, 118 PFV).",
     "dims": "W 57 · D 52 · H 80 cm · Seat H 46",
     "materials": "Bent beech · Cane, plywood or upholstered seat",
     "colors": "Natural, stained or lacquered",
     "use": "Indoor",
     "stackable": false,
-    "availability": "On request"
+    "images": [
+      "/assets/thonet-118fv-trim.png"
+    ],
+    "gallery": [
+      "/assets/thonet-118fv-trim.png",
+      "/assets/thonet-118pfv-green.png"
+    ],
+    "mood": "/assets/thonet-118fv-mood2.jpg",
+    "ar": "3 / 4",
+    "variants": false,
+    "moodPos": "50% 30%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": true
   },
   {
     "id": "thonet-118spht",
-    "lift": true,
-    "mood": "/assets/thonet-118spht-mood2.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 50%",
-    "brand": "thonet",
     "name": "118 SPHT",
+    "brand": "thonet",
     "designer": "Sebastian Herkner, 2018",
     "category": "Bar stools",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/thonet-118spht-trim.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "Made to order",
     "desc": "The bar-stool version of the 118 family: a bent-beech frame, upholstered seat, curved beech back and polished chrome footrest ring.",
     "dims": "W 40 · D 45 · H 84 cm · Seat H 66",
     "materials": "Bent beech · Upholstered seat · Chrome footrest",
     "colors": "Natural, stained or lacquered beech · Many fabrics",
     "use": "Indoor",
     "stackable": false,
-    "availability": "Made to order"
+    "images": [
+      "/assets/thonet-118spht-trim.png"
+    ],
+    "mood": "/assets/thonet-118spht-mood2.jpg",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 50%",
+    "moodAr": "16 / 10",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": true
   },
   {
     "id": "thonet-119spf",
-    "lift": true,
-    "variants": true,
-    "mood": "/assets/thonet-119spf-mood5.jpg",
-    "moodPos": "50% 50%",
-    "gallery": [
-      "/assets/thonet-119spf-black-up.png",
-      "/assets/thonet-119mf-black.png",
-      "/assets/thonet-119f-red-cane.png",
-      "/assets/thonet-119pf-green.png"
-    ],
-    "brand": "thonet",
     "name": "119 SPF",
+    "brand": "thonet",
     "designer": "Sebastian Herkner, 2021",
     "category": "Armchairs",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/thonet-119spf-trim.png"
-    ],
-    "ar": "3 / 4",
+    "availability": "On request",
     "desc": "A light lounge chair from the 118 range, with a wide, inclined back and a deep seat tilted at 5.5°. Shown with flat upholstery; also with canework (119 F), plywood (119 MF) and an optional cushion.",
     "dims": "W 68 · D 62 · H 77 cm · Seat H 42",
     "materials": "Bent beech · Upholstered, cane or plywood seat",
     "colors": "Stained or high-gloss",
     "use": "Indoor",
     "stackable": false,
-    "availability": "On request"
+    "images": [
+      "/assets/thonet-119spf-trim.png"
+    ],
+    "gallery": [
+      "/assets/thonet-119spf-black-up.png",
+      "/assets/thonet-119mf-black.png",
+      "/assets/thonet-119f-red-cane.png",
+      "/assets/thonet-119pf-green.png"
+    ],
+    "mood": "/assets/thonet-119spf-mood5.jpg",
+    "ar": "3 / 4",
+    "variants": true,
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": true
   },
   {
     "id": "thonet-s243",
-    "variants": true,
-    "mood": "/assets/thonet-s243-mood.png",
-    "moodPos": "50% 50%",
-    "gallery": [
-      "/assets/thonet-s243-black.png",
-      "/assets/thonet-s243-olive.png",
-      "/assets/thonet-s243-red.png"
-    ],
-    "brand": "thonet",
     "name": "S 243",
-    "designer": "",
+    "brand": "thonet",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
+    "availability": "On request",
+    "desc": "A light, stackable chair for living and working spaces, its moulded wood seat and back proportioned to the tubular steel frame.",
+    "dims": "W 52 · D 48 · H 79 cm · Seat H 47 · Stacks 5",
+    "materials": "Chrome steel · Beech plywood",
+    "colors": "Chrome with black beech · Olive or red with matching beech",
+    "use": "Indoor",
+    "stackable": true,
     "images": [
       "/assets/thonet-s243-black.png",
       "/assets/thonet-s243-olive.png",
       "/assets/thonet-s243-red.png"
     ],
-    "ar": "4 / 5",
-    "desc": "A light, stackable chair for living and working spaces, its moulded wood seat and back proportioned to the tubular steel frame.",
-    "dims": "W 52 · D 48 · H 79 cm · Seat H 47 · Stacks 5",
-    "materials": "Chrome steel · Beech plywood",
-    "colors": "Chrome with black beech · Olive or red with matching beech",
+    "gallery": [
+      "/assets/thonet-s243-black.png",
+      "/assets/thonet-s243-olive.png",
+      "/assets/thonet-s243-red.png"
+    ],
+    "mood": "/assets/thonet-s243-mood.png",
     "pdf": "/assets/thonet-s243-spec.pdf",
-    "use": "Indoor",
-    "stackable": true,
-    "availability": "On request"
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 50%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "thonet-s33",
-    "mood": "/assets/thonet-s33-mood2.jpg",
-    "moodAr": "16 / 10",
-    "moodPos": "50% 85%",
-    "brand": "thonet",
     "name": "S 33",
+    "brand": "thonet",
     "designer": "Mart Stam, 1926",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/thonet-s33.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "On request",
     "desc": "One of the first cantilever chairs. Mart Stam began with gas pipes in 1925, and the S 33 debuted at the Weissenhof Estate in 1927. Also as S 33 V, S 33 N and S 34 with arms.",
     "dims": "W 50 · D 64 · H 84 cm · Seat H 46",
     "materials": "Chrome steel · Leather or mesh",
-    "pdf": "/assets/thonet-s33-factsheet.pdf",
     "use": "Indoor",
     "stackable": false,
-    "availability": "On request"
+    "images": [
+      "/assets/thonet-s33.png"
+    ],
+    "mood": "/assets/thonet-s33-mood2.jpg",
+    "pdf": "/assets/thonet-s33-factsheet.pdf",
+    "ar": "4 / 5",
+    "variants": false,
+    "moodPos": "50% 85%",
+    "moodAr": "16 / 10",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   },
   {
     "id": "thonet-118spfv",
-    "variants": true,
-    "mood": "/assets/thonet-118-mood.png",
-    "moodPos": "50% 40%",
-    "gallery": [
-      "/assets/thonet-118spfv-beech.png",
-      "/assets/thonet-118spfv-olive.png",
-      "/assets/thonet-118spfv-black.png"
-    ],
-    "brand": "thonet",
     "name": "118 SPFV",
+    "brand": "thonet",
     "designer": "Sebastian Herkner",
+    "year": "2018",
     "category": "Chairs",
     "price": {
       "type": "request"
     },
-    "images": [
-      "/assets/thonet-118spfv-beech.png",
-      "/assets/thonet-118spfv-olive.png",
-      "/assets/thonet-118spfv-black.png"
-    ],
-    "ar": "4 / 5",
+    "availability": "On request",
     "desc": "The upholstered fine-dining armchair of the 118 family, with a larger seat, a wider, more reclined back and bentwood arms, made for long meals.",
     "dims": "W 57 · D 52 · H 80 cm",
     "materials": "Solid beech · Upholstered seat",
     "colors": "Natural, stained or lacquered · Many fabrics",
     "use": "Indoor",
     "stackable": false,
-    "availability": "On request",
-    "year": "2018",
-    "pdf": "/assets/thonet-118spfv-spec.pdf"
+    "images": [
+      "/assets/thonet-118spfv-beech.png",
+      "/assets/thonet-118spfv-olive.png",
+      "/assets/thonet-118spfv-black.png"
+    ],
+    "gallery": [
+      "/assets/thonet-118spfv-beech.png",
+      "/assets/thonet-118spfv-olive.png",
+      "/assets/thonet-118spfv-black.png"
+    ],
+    "mood": "/assets/thonet-118-mood.png",
+    "pdf": "/assets/thonet-118spfv-spec.pdf",
+    "ar": "4 / 5",
+    "variants": true,
+    "moodPos": "50% 40%",
+    "ixPhoto": false,
+    "ottoman": false,
+    "lift": false
   }
 ]
