@@ -67,3 +67,10 @@ Netlify builds and publishes automatically on every push to `main` (GitHub webho
 - So: work on a branch, preview, and merge to `main` only after approval.
 
 Previews are protected; open them while signed in to Netlify.
+
+## Saved decisions
+
+- **Client can't delete products** (designer-only, by user ID in `studio/sanity.config.js`).
+  If the client asks to remove products themselves: add a "Show on site" toggle instead of
+  opening deletion. Hidden products leave the listings, but products the home grid/intro
+  depend on stay, so the home grid never changes. Permanent deletion stays with the designer.
