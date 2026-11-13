@@ -12,5 +12,5 @@
 - Keep `cssMinify: false` in `vite.config.js`: the minifier drops unprefixed `backdrop-filter` and the blur disappears.
 - Before any deploy, run `npm run build` and check the changed pages in the browser at desktop and mobile widths.
 - Work on a branch and open a pull request; never push straight to `main`. Verify visual changes in the browser (desktop and mobile) before asking to merge.
-- Deploy with the Netlify CLI (`~/.local/bin/netlify deploy --dir dist`, see README): preview first, `--prod` only after the user approves. GitHub CLI is at `~/.local/bin/gh`.
+- Pushing to `main` deploys the live site automatically. Work on a branch, preview with `~/.local/bin/netlify deploy --dir dist`, and merge to `main` only after the user approves. GitHub CLI is at `~/.local/bin/gh`.
 - The user is not technical: explain steps in plain Hebrew, one step at a time.

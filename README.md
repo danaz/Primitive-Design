@@ -58,9 +58,10 @@ automatically (Netlify is linked to the GitHub repo). Pull before working locall
 
 ## Deploying
 
-The folder is linked to the Netlify site `primitiveanddesign` with the Netlify CLI.
+Netlify builds and publishes automatically on every push to `main` (GitHub webhook
+→ Netlify build hook; Netlify reads the repo with a read-only deploy key).
 
-- Preview (does not touch the live site): `npm run build && netlify deploy --dir dist`
-- Live, only after approval: `npm run build && netlify deploy --dir dist --prod`
+- Preview without touching the live site: `npm run build && netlify deploy --dir dist`
+- So: work on a branch, preview, and merge to `main` only after approval.
 
 Previews are protected; open them while signed in to Netlify.
