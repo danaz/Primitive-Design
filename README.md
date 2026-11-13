@@ -13,15 +13,15 @@ public/
 src/
   main.jsx            entry point
   config.js           site settings (columns, prices on/off, etc.)
-  content/
-    products/<id>.json  one file per product (edited by the client); `order` sets the sequence
-    brands/<id>.json    one file per brand (edited by the client)
+  content/.generated/ products + brands downloaded from Sanity before each build (not in git)
   data/
-    products.js       loads content/products (+ group-shot list)
-    brands.js         loads content/brands
-    load.js           sorts items by `order`
-    clean.js          normalises CMS output for the site logic
-scripts/check-assets.mjs  runs before every build; fails if a referenced file is missing
+    products.js       loads the generated products (+ group-shot list)
+    brands.js         loads the generated brands
+    clean.js          normalises content for the site logic
+scripts/
+  fetch-content.mjs   downloads published content from Sanity (runs before build/dev)
+  check-assets.mjs    fails the build if a referenced file is missing
+studio/               Sanity Studio (the client's editor): https://primitive-design.sanity.studio
     catalog.js        categories and sort options
     mood.js           mood images on the home grid
     intro.js          opening-animation layout
@@ -32,10 +32,10 @@ scripts/check-assets.mjs  runs before every build; fails if a referenced file is
 ```
 
 Typical edits:
-- Products and brands: `src/content/products/` and `src/content/brands/`. The client edits these through
-  Pages CMS (https://app.pagescms.org, config in `.pages.yml`); see
-  `docs/client-editing-guide.md`. Client uploads land in `public/assets/uploads/` (the CMS media screen only sees that folder).
-- Change layout or copy of a section: the matching file in `src/views/`.
+- Products and brands: in Sanity Studio (https://primitive-design.sanity.studio).
+  Photos imported from the original site keep their `public/assets/` paths; new uploads
+  are served from the Sanity CDN. See `docs/client-editing-guide.md`.
+- Studio forms: `studio/schemas/`. After changing them: `cd studio && npx sanity deploy`.
 
 Raw materials (uploads, scraps, old design versions) are kept outside the repo in
 `~/Downloads/Primitive Design - Archive`.
@@ -52,11 +52,11 @@ Raw materials (uploads, scraps, old design versions) are kept outside the repo i
 2. Build and deploy a preview, and have it checked.
 3. After approval: merge to `main`, then deploy live.
 
-## Client editing (Pages CMS)
+## Client editing (Sanity)
 
-The client saves in Pages CMS → a commit on `main` → Netlify builds and publishes
-automatically (Netlify is linked to the GitHub repo). Pull before working locally:
-`git pull`. When adding a brand, also add it to the brand list in `.pages.yml`.
+Sanity project `g86o1nq3`, dataset `production` (public read). The client is invited as
+Editor: layout fields are read-only, and they can't delete items or create brands.
+Publishing in Sanity triggers a Netlify build (Sanity webhook → Netlify build hook).
 
 ## Deploying
 

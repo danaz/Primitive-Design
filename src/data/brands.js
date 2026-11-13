@@ -1,7 +1,6 @@
-// Brands are edited in src/content/brands/*.json (one file per brand, via Pages CMS).
-import { loadOrdered } from './load.js';
+// Brands are edited in Sanity (studio/). scripts/fetch-content.mjs downloads them
+// before every build into src/content/.generated/brands.json, already in order.
+import brands from '../content/.generated/brands.json';
 import { cleanBrand } from './clean.js';
 
-export const BRANDS = Object.fromEntries(
-  loadOrdered(import.meta.glob('../content/brands/*.json', { eager: true })).map(cleanBrand).map((b) => [b.id, b])
-);
+export const BRANDS = Object.fromEntries(brands.map(cleanBrand).map((b) => [b.id, b]));
