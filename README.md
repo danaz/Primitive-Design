@@ -19,8 +19,8 @@ Raw materials (uploads, scraps, old design versions) are kept outside the repo i
 ## Workflow
 
 1. Work on a branch, never directly on `main`.
-2. Netlify builds a preview link for each pull request; check it.
-3. Merge to `main` → the live site updates.
+2. Deploy a preview (see below) and have the user check it.
+3. After approval: merge to `main`, then deploy live.
 
 ## Deploying
 

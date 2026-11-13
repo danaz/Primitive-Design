@@ -8,4 +8,5 @@
 - The live site is `site/` (Netlify publishes it from `main`). See `README.md` for structure.
 - Raw materials and old design versions live outside the repo in `~/Downloads/Primitive Design - Archive`; look there for original images, PDFs and uploads. Copy only what the site uses into `site/assets/`.
 - Work on a branch and open a pull request; never push straight to `main`. Verify visual changes in the browser (desktop and mobile) before asking to merge.
+- Deploy with the Netlify CLI (`~/.local/bin/netlify`, see README): preview first, `--prod` only after the user approves. GitHub CLI is at `~/.local/bin/gh`.
 - The user is not technical: explain steps in plain Hebrew, one step at a time.
