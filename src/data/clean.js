@@ -19,12 +19,14 @@ const isEmpty = (v) =>
   v === null || v === undefined || v === '' || (Array.isArray(v) && v.length === 0);
 
 /** Drop empty optional keys; required keys keep a safe default. */
-function tidy(item, required) {
+function tidy(item, required, flags = []) {
   const out = {};
   for (const [k, v] of Object.entries(item)) {
     if (k in required) out[k] = isEmpty(v) ? required[k] : v;
+    else if (flags.includes(k) && v === false) continue; // the CMS saves unticked boxes as false
     else if (!isEmpty(v)) out[k] = v;
   }
+  for (const k of Object.keys(required)) if (!(k in out)) out[k] = required[k]; // the CMS drops blank fields
   return out;
 }
 
@@ -33,8 +35,11 @@ const PRODUCT_REQUIRED = {
   desc: '', use: '', stackable: false, availability: '',
 };
 
+// Optional on/off settings: only `true` matters; unticked (false) is the same as absent.
+const PRODUCT_FLAGS = ['variants', 'ixPhoto', 'ottoman', 'lift'];
+
 export function cleanProduct(raw) {
-  const p = tidy(fixPaths(raw), PRODUCT_REQUIRED);
+  const p = tidy(fixPaths(raw), PRODUCT_REQUIRED, PRODUCT_FLAGS);
   if (p.price) {
     const price = tidy(p.price, {});
     if (!price.type) delete p.price;
